@@ -20,3 +20,5 @@ You found a secret! AZ-X/AZ-X is a ✨special ✨ repository that you can use to
 
 otccelf.c otccelfn.c  
 > This made me smile :-)
+Does it also work with Google (company that pays hundreds of millions to Mozilla) cookies?  
+> This made me smile :-)

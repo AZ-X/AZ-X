@@ -22,3 +22,6 @@ otccelf.c otccelfn.c
 > This made me smile :-)
 Does it also work with Google (company that pays hundreds of millions to Mozilla) cookies?  
 > This made me smile :-)
+Why people use [mrustc](https://github.com/thepowersgang/mrustc) a.k.a. alternative rust compiler to build Firefox?  
+Why people hate multiple Objective Caml builds?  
+> This made me smile :-)

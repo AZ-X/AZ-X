@@ -32,3 +32,9 @@ Why people hate multiple Objective Caml builds?
 Why github let me focus/know a fallol fallen [aeneasr](https://github.com/aeneasr) as a blocked user?
 
 > ->This made me smile :-)  
+
+Am I missing something?  
+![bots](https://m.media-amazon.com/images/M/MV5BOTA3MTAyNzQ0M15BMl5BanBnXkFtZTgwNjIwNjYwNjE@.jpg)
+![museum](https://m.media-amazon.com/images/M/MV5BNTgxMDk4MTIxNl5BMl5BanBnXkFtZTgwOTc5OTQ2MzE@.jpg)
+
+> ->This made me smile :-)  

@@ -38,3 +38,9 @@ Am I missing something?
 ![museum](https://m.media-amazon.com/images/M/MV5BNTgxMDk4MTIxNl5BMl5BanBnXkFtZTgwOTc5OTQ2MzE@.jpg)
 
 > ->This made me smile :-)  
+
+NOSTALGIA - All Will Become N.  
+> Takashi's older memories: meeting a JSDF Ranger, reading a translated copy of George Orwell's [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)...  
+> Alien VS Predator 1986, 1993, 2007, 2018, 2019  
+> Posthuman VS Hackman 2020  
+> ->This made me smile :-)  

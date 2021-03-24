@@ -44,3 +44,7 @@ NOSTALGIA - All Will Become N.
 > Alien VS Predator 1986, 1993, 2007, 2018, 2019  
 > Posthuman VS Hackman 2020  
 > ->This made me smile :-)  
+
+This release will be made available on Thursday 25th March 2021 between 1300-1700 UTC
+
+> ->This made me smile :-)  

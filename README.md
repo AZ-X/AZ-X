@@ -48,3 +48,8 @@ NOSTALGIA - All Will Become N.
 This release will be made available on Thursday 25th March 2021 between 1300-1700 UTC
 
 > ->This made me smile :-)  
+
+Considering that BoringSSL is the library in Chrome, Android, iOS, and Google's GFE, I imagine it's adoption is not "poor". It is probably the most widespread TLS implementation, by traffic.
+
+https://github.com/google/boringssl/commit/ac85c036d7cf81b63dc030ef73a1f7bb48c77890
+> ->This made me smile :-)  

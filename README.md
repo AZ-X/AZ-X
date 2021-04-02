@@ -53,3 +53,8 @@ Considering that BoringSSL is the library in Chrome, Android, iOS, and Google's 
 
 https://github.com/google/boringssl/commit/ac85c036d7cf81b63dc030ef73a1f7bb48c77890
 > ->This made me smile :-)  
+
+Why github show an example of [Deleted bot](https://github.com/ghost) talking about terms of 'blacklisting' or 'whitelisting' [ghostly](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1654)  
+Why ask to open a ghostliness discussion on such topic?
+
+> ->This made me smile :-)  

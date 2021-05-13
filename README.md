@@ -58,3 +58,7 @@ Why github show an example of [Deleted bot](https://github.com/ghost) talking ab
 Why ask to open a ghostliness discussion on such topic?
 
 > ->This made me smile :-)  
+
+BlueKeep: Fragmentation and Aggregation Attaches since 1997, but what's the matter with an outdated Windows 7 machine??? How did you discover this? "That's a good question."
+
+> ->This made me smile :-)  

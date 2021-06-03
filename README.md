@@ -62,3 +62,11 @@ Why ask to open a ghostliness discussion on such topic?
 BlueKeep: Fragmentation and Aggregation Attaches since 1997, but what's the matter with an outdated Windows 7 machine??? How did you discover this? "That's a good question."
 
 > ->This made me smile :-)  
+
+Whilst Americans may not have heard of the app, according to one analysis, it’s the fourth biggest browser by user numbers in the world, largely because of large user bases in Asia, but were hosted in the U.S.
+
+> ->This made me smile :-)  
+
+Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that every time he visited a website, it was being encrypted and transmitted back to the 'company'. On Apple’s iOS, he didn’t even need to reverse engineer the encryption because there effectively was 'none' on the device (though it was encrypted when in transit).
+
+> ->This made me smile :-)  

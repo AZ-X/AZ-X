@@ -63,7 +63,7 @@ BlueKeep: Fragmentation and Aggregation Attaches since 1997, but what's the matt
 
 > ->This made me smile :-)  
 
-Whilst Americans may not have heard of the app, according to one analysis, it’s the fourth biggest browser by user numbers in the world, largely because of large user bases in Asia, but were hosted in the U.S.
+[thanks Thomas](https://www.forbes.com/sites/thomasbrewster/) Whilst Americans may not have heard of the app, according to one analysis, it’s the fourth biggest browser by user numbers in the world, largely because of large user bases in Asia, but were hosted in the U.S.
 
 > ->This made me smile :-)  
 

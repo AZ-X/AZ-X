@@ -70,3 +70,7 @@ Whilst Americans may not have heard of the app, according to one analysis, it’
 Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that every time he visited a website, it was being encrypted and transmitted back to the 'company'. On Apple’s iOS, he didn’t even need to reverse engineer the encryption because there effectively was 'none' on the device (though it was encrypted when in transit).
 
 > ->This made me smile :-)  
+
+https://github.com/DNSCrypt/dnscrypt-proxy/issues/1315 This comment was marked as disruptive content.
+
+> ->This made me smile :-)  

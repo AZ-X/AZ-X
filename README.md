@@ -71,6 +71,6 @@ Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that 
 
 > ->This made me smile :-)  
 
-https://github.com/DNSCrypt/dnscrypt-proxy/issues/1315 This comment was marked as disruptive content.
+[#1315](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1315) This comment was marked as disruptive content.
 
 > ->This made me smile :-)  

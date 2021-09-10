@@ -74,3 +74,18 @@ Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that 
 [#1315](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1315) This comment was marked as disruptive content.
 
 > ->This made me smile :-)  
+
+fallback divide-and-conquer: indicating that the security level of 40 bits is due to export regulations, far-reaching consequences on the user’s privacy
+
+> ->This made me smile :-)  
+
+This is the lamest title i ever read  
+Rust? what is that?  
+1.55.0 why is that worth mentioning  
+Is this an AD? or a news about an update?  
+Why not mention it's an update and is a release note?  
+or is ***Hacker News*** the place to release rust release notes so mentioning it would imply it is not  
+Fishy fishy, when i hold your tail, you start to stray away, or not, doesn't make sense anyways, does it?  
+
+> ->This made me smile :-)  
+

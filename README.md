@@ -113,3 +113,11 @@ func wifi_info() -> String? {
 
 > ->This made me smile :-)  
 
+There's only little public documentation about the AOP. All chips and various embedded devices Apple manufactures run a real-time operating system, called RTKitOS. The AOP on the iPhone is no exception. However, the AOP has a special role. It connects to almost every other chip in the iPhone. For some chips, it only does basic tasks like power management, and for other chips, it acts as a transparent proxy that wakes up iOS when needed.  
+The bag may help with some exfiltration routes, but it can store locations and other info and upload it when it gets a signal back.  
+Then just turn it off in Settings.  
+It’s a feature of Pixel phones, not Android.  
+Just like why people continue to use FB/Twit/blah; that's where the people are.  
+
+> ->This made me smile :-)  
+

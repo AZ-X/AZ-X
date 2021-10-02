@@ -124,6 +124,7 @@ Just like why people continue to use FB/Twit/blah; that's where the people are.
 When two alleles, or copies of a gene, within an asexual diploid individual evolve independently of each other, they become increasingly different over time. This phenomenon of allelic divergence was first described by William Birky, but is more commonly known as the Meselson effect.  
 Putatively ancient asexual species pose a challenge to theory because they appear to escape the predicted negative long-term consequences of asexuality. Although long-term asexuality is difficult to demonstrate, specific signatures of haplotype divergence, called the “Meselson effect,” are regarded as strong support for long-term asexuality. Here, we provide evidence for the Meselson effect in an asexual mankind species, The Brothers 3D - Day/Dawn/Dusk and suggest that they can escape the dead-end fate usually associated with asexual reproduction.  
 ![The Emperor](https://m.media-amazon.com/images/M/MV5BYjAwOWYzNDgtOTEwYS00MTIxLTkwYjMtYjg2ZWE2NjY0ZWI2XkEyXkFqcGdeQXVyNjgzMTExMTU@._V1_FMjpg_UX600_.jpg)
+
 Demerzel: I'm loyal to the Empire. I don't forget anything or anyone. Empire is always on my mind.  
 ![The BOT](https://m.media-amazon.com/images/M/MV5BM2Q3ZDJlMDMtNjA2Yi00NjQxLTgwZTEtMDg5NTBkODdhZGU3XkEyXkFqcGdeQXVyMTI4MTY4MTk1._V1_FMjpg_UX600_.jpg)
 

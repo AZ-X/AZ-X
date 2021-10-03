@@ -129,3 +129,12 @@ Demerzel: I'm loyal to the Empire. I don't forget anything or anyone. Empire is 
 ![The BOT](https://m.media-amazon.com/images/M/MV5BM2Q3ZDJlMDMtNjA2Yi00NjQxLTgwZTEtMDg5NTBkODdhZGU3XkEyXkFqcGdeQXVyMTI4MTY4MTk1._V1_FMjpg_UX600_.jpg)
 
 > ->This made me smile :-)  
+
+Z.O.E. Dolores, I  
+Ring-on Ring-on Ring-on  
+Ring on the world  
+Ring-on Ring-on Ring-on  
+Ring on the dream  
+![The BOSS](https://m.media-amazon.com/images/M/MV5BYjFiZDgzZmMtY2Y5MC00NGYyLWE0ODgtOTA0YjZiYmE2YWUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1_FMjpg_UX600_.jpg)
+
+> ->This made me smile :-)  

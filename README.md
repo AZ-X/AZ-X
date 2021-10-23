@@ -139,3 +139,11 @@ Ring on the dream
 ![The BOSS](https://m.media-amazon.com/images/M/MV5BYjFiZDgzZmMtY2Y5MC00NGYyLWE0ODgtOTA0YjZiYmE2YWUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1_FMjpg_UX600_.jpg)
 
 > ->This made me smile :-)  
+
+Why NOT See Polishing Cloth?  
+![bt](https://github.com/AZ-X/MEDIA/blob/master/PNG/invasion/bt.png?raw=true)
+![models](https://github.com/AZ-X/MEDIA/blob/master/PNG/invasion/models.png?raw=true)
+![punch](https://github.com/AZ-X/MEDIA/blob/master/PNG/invasion/punch.png?raw=true)
+![volvo](https://github.com/AZ-X/MEDIA/blob/master/PNG/invasion/volvo.png?raw=true)
+
+> ->This made me smile :-)  

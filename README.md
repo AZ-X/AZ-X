@@ -147,3 +147,23 @@ Why NOT See Polishing Cloth?
 ![volvo](https://github.com/AZ-X/MEDIA/blob/master/PNG/invasion/volvo.png?raw=true)
 
 > ->This made me smile :-)  
+
+1.0  
+New features:  
+- [x] Future foresight
+- [x] Communication with up to seven deceased relatives and wireless compatibility
+
+To update overnight say 'yes' at the tone.  
+I see you pay for the "cloud" monthly, so at least you have a backup of your good deeds and sins. ~~Can you see my sins? You want me to?~~ We can offer you a discount on a new system. You're supposed to renew your faith every 18 months???  
+
+2.0  
+Wireless, waterproof, non-flammable and simply indestructible  
+Can you see me? Yes, I see everything. The new is equipped with visual sensor technology.  
+Turn off. The new has an eternal battery life and can't be powered down. Forever in your presence making you a better prison, always.  
+No, no, no, no, no, no! [mini nested echoes]  
+
+It's been pretty hectic around here.  
+You are categorized as low-level maintenance crew. An android companion is not an ‘approved expense’. You were registered at a cost of $500,000. The android cost $40 million. Please get us those reading STAT.  
+Eva, engage thrusters. SHIT HAPPENS, SORRY.  
+
+> ->This made me smile :-)  

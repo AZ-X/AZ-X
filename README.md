@@ -167,3 +167,9 @@ You are categorized as low-level maintenance crew. An android companion is not a
 Eva, engage thrusters. SHIT HAPPENS, SORRY.  
 
 > ->This made me smile :-)  
+
+Johnny Handsome, Johnny English, Johnny PayPal  
+Jim's favor car is  
+Just did the Alpha Test with python  
+
+> ->This made me smile :-)  

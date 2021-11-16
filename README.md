@@ -178,3 +178,11 @@ Just did the Alpha Test with python
 Red Notice: welcome to the Apex  
 
 > ->This made me smile :-)  
+
+Rowhammer "fuzzer" named [Blacksmith](https://comsec.ethz.ch/wp-content/files/blacksmith_sp22.pdf) can bypass TRR on 100% of the PC-DDR4 DRAM devices, which was publicly disclosed on November 15, 2021  
+How bad is it? "A very good question!"  
+Thanks to a better understanding, that solving Rowhammer is hard but not impossible, but makes exploitation harder.  
+
+***How many GE farms run by goose? It's totally upselling***
+
+> ->This made me smile :-)  

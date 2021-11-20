@@ -189,7 +189,7 @@ Thanks to a better understanding, that solving Rowhammer is hard but not impossi
 
 Your legacy has been erased, Azura.  
 
-***712 + 1551, in ancient human history, you are likely one of the emperors and empresses who are good at counting and mass of revenge.***
+***712 + 1551, in ancient human history, you are alike to the emperors and empresses who are good at counting and mass of revenge.***
 
 Demerzel: I won't. I am loyal, Empire, to the Cleonic Dynasty above all else.
 

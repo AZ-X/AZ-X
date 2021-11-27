@@ -194,3 +194,18 @@ Your legacy has been erased, Azura.
 Demerzel: I won't. I am loyal, Empire, to the Cleonic Dynasty above all else.
 
 > ->This made me smile :-)  
+
+![pg_01](https://github.com/AZ-X/MEDIA/blob/master/PNG/pg/pg_01.png?raw=true)
+
+![pg_02](https://github.com/AZ-X/MEDIA/blob/master/PNG/pg/pg_02.png?raw=true)
+
+![pg_03](https://github.com/AZ-X/MEDIA/blob/master/PNG/pg/pg_03.png?raw=true)
+
+![pg_04](https://github.com/AZ-X/MEDIA/blob/master/PNG/pg/pg_04.png?raw=true)
+
+![Marseille](https://m.media-amazon.com/images/M/MV5BMGI4ZTA3YmUtOWIzMi00ZmY2LWE3ODctMTZiNjI1YzQwNjBkXkEyXkFqcGdeQXVyMzQ5NTUzNDk@._V1_FMjpg_UX600_.jpg)
+
+The first cases of feeling unreal go back to French otorhinolaryngologist Maurice Krishaber in 1873. It's called DPD: depersonalization disorder.  
+
+> ->This made me smile :-)  
+

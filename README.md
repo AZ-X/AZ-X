@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 You found a secret! AZ-X/AZ-X is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
+### The README.md is hijacked by AZ-X nominally and now it is like a time-based mini blogs or collection of twitter style moments or the arts of quoting representing the edge of ambient past and future.
+
+#### You are going to look into a shared secret between AZ-X and gitlab/github/gitsub/gitpub. To confirm this, go ahead.
+
+##### Trust the sites, there seems lots of fun when reading.
+
+###### To practice a deep drill of time, press git log.
 
 otccelf.c otccelfn.c  
 > "This made me smile :-)"

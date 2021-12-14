@@ -216,3 +216,8 @@ The first cases of feeling unreal go back to French otorhinolaryngologist Mauric
 
 > ->This made me smile :-)  
 
+This place is basically like a technology monastery, you know. There are some "women" here, but not many. And it's "remote".  
+
+[The 17 Best Remote Control Vibrators for Women, Men and Couples](https://observer.com/2021/04/the-17-best-remote-control-vibrators-for-women-men-and-couples/)
+
+> ->This made me smile :-)  

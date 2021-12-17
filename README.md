@@ -221,3 +221,8 @@ This place is basically like a technology monastery, you know. There are some "w
 [The 17 Best Remote Control Vibrators for Women, Men and Couples](https://observer.com/2021/04/the-17-best-remote-control-vibrators-for-women-men-and-couples/)
 
 > ->This made me smile :-)  
+
+When mankind first looked up to the stars, mankind thought: nonlinear delivery options what are those things?  
+
+> ->This made me smile :-)  
+

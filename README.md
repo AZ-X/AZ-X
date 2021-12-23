@@ -235,4 +235,24 @@ And yes, that makes you upset even a flipflop.
 
 > ->This made me smile :-)  
 
+Dr. Samuel Rainsford, Welcome to Raccoon City.  
+---
+***To the monsters, we're the monsters.***  
+Captain Lonegan is in charge, but he has no crew and is locked inside the bridge and just drinks Scotch and talks about the past.  
+A stranger named Dr. Eleven, who we first meet floating unconscious in space and who then gets stuck aboard a broken space station.  
+The survivors are kids called the Undersea.  
+Is that a mine?  Why are there mines on a golf course?
+
+We are such stuff as dreams are made on, a little life rounded with a sleep.
+
+Agent Roker, you naughty boy.(A struggling writer, his pregnant wife, and their daughter move to an isolated beach town for the winter. Once they're settled in, the town's true residents begin to make themselves known)  
+Well played, Marc Antony. You're a star.  
+As far as we know, the Internet is gone. Right, Tyler? No more Internet.  
+Mile--Miles, I'm sorry, I can't. Well, why not? I'm in mourning.  
+When they sin against you, for there is no person who does not sin, and you are angry with them and turn them over to the enemy, if they repent and implore your favor, saying, 'We have sinned and done wrong. We have acted wickedly...'  
+And forgive your people who have sinned against you and all their wrongdoings which they have committed against you. And make them objects of compassion before those who have taken them captive...so that they will have compassion on them.  
+What are you doing? I'm making a museum : Welcome to Raccoon City  
+
+> ->This made me smile :-)  
+
 

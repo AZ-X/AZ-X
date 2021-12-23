@@ -230,3 +230,9 @@ Helen. Didn't work.
 
 > ->This made me smile :-)  
 
+IPFS has used different kinds of hashing algorithms, different ways to format the hashes, and will change the default algorithm for building the merkle-trees, so basically ***the same content*** now has a gigantic number of possible names/addresses, which defeats the entire purpose, and yes, files hashed using different strategies aren’t automagically compatible  
+And yes, that makes you upset even a flipflop.
+
+> ->This made me smile :-)  
+
+

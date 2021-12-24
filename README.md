@@ -255,4 +255,13 @@ What are you doing? I'm making a museum : Welcome to Raccoon City
 
 > ->This made me smile :-)  
 
+Go ahead. Try it. We're quite excited about the blueberries.  
+We were on our way to remake your world. Change a few things. I kind of like the "paint the sky with rainbows" idea. Just remind people what a free mind can do.  
+
+What has the world come to when you can't even trust a program? Once he got out, let's just say, I was free to be me.  
+[braid smith](https://github.com/AZ-X/pique/commit/8eeaf2c4ec8c4f36a1f9c13fe32fe412a0e5521f)
+
+Thanks dnscrypt_proxy it gave this project something they never thought the world could have.
+
+> ->This made me smile :-)  
 

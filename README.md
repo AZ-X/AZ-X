@@ -265,3 +265,30 @@ Thanks dnscrypt_proxy it gave this project something they never thought the worl
 
 > ->This made me smile :-)  
 
+World ain't getting better, Thomas. No matter how many kids are in it.  
+When there's two leaders there ain't no leader.  
+I ask him: why make a world of such wonder then fill it with monsters? Why make flowers and then snakes to hide beneath them? What purpose does the tornado serve?  
+Then it hit me: he didn't make it for us.  
+
+Those kids were brainwashed. They were terrorists. Haley told the kids a different story, that the mines erased the past.
+What happened to you is what happened to me  
+I just don't think you can remember  
+I can't tell you now 'cause you won't believe me  
+Remember this when you remember  
+You can't be alone, it's too hard alone  
+Go find a stranger to love  
+No matter how strong you think you may be  
+You still need a stranger to love  
+And who loves you  
+children: I can't tell you now, cause you won'tbelieve me  
+
+The second Noel:  
+> Time.. time is a ship on a merciless sea
+> Drifting toward an average of nothingness
+> Until it can be retarded for it's own destiny
+> TIME is an inanimate object
+> Praying and praying and praying for ??
+> Time is DANCING, moving lingering all memories of past
+
+> ->This made me smile :-)  
+

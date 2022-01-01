@@ -267,6 +267,7 @@ Thanks dnscrypt_proxy it gave this project something they never thought the worl
 
 World ain't getting better, Thomas. No matter how many kids are in it.  
 When there's two leaders there ain't no leader.  
+[Ain't was a prominent target of early prescriptivist writers. In the 18th and early 19th centuries, some writers began to propound the need to establish a "pure" or "correct" form of English. Contractions in general were disapproved of, but ain't and its variants were seen as particularly "vulgar".]  
 I ask him: why make a world of such wonder then fill it with monsters? Why make flowers and then snakes to hide beneath them? What purpose does the tornado serve?  
 Then it hit me: he didn't make it for us.  
 

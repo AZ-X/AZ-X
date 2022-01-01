@@ -271,16 +271,16 @@ I ask him: why make a world of such wonder then fill it with monsters? Why make 
 Then it hit me: he didn't make it for us.  
 
 Those kids were brainwashed. They were terrorists. Haley told the kids a different story, that the mines erased the past.  
-What happened to you is what happened to me  
-I just don't think you can remember  
-I can't tell you now 'cause you won't believe me  
-Remember this when you remember  
-You can't be alone, it's too hard alone  
-Go find a stranger to love  
-No matter how strong you think you may be  
-You still need a stranger to love  
-And who loves you  
-Children: I can't tell you now, cause you won'tbelieve me  
+> What happened to you is what happened to me  
+> I just don't think you can remember  
+> I can't tell you now 'cause you won't believe me  
+> Remember this when you remember  
+> You can't be alone, it's too hard alone  
+> Go find a stranger to love  
+> No matter how strong you think you may be  
+> You still need a stranger to love  
+> And who loves you  
+> Children: I can't tell you now, cause you won'tbelieve me  
 
 The second Noel:  
 > Time.. time is a ship on a merciless sea  

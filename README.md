@@ -271,6 +271,10 @@ When there's two leaders there ain't no leader.
 I ask him: why make a world of such wonder then fill it with monsters? Why make flowers and then snakes to hide beneath them? What purpose does the tornado serve?  
 Then it hit me: he didn't make it for us.  
 
+If you don't control them then you aren't in charge. I will find someone else. You don't decide these things.  
+This is a free country. That's a free country. That is Comanche land. Beyond it is no man's land and that's where we're going..  
+***You ain't free yet.***  
+
 Those kids were brainwashed. They were terrorists. Haley told the kids a different story, that the mines erased the past.  
 > What happened to you is what happened to me  
 > I just don't think you can remember  
@@ -290,6 +294,8 @@ The second Noel:
 > TIME is an inanimate object  
 > Praying and praying and praying for ??  
 > Time is DANCING, moving lingering all memories of past  
+
+
 
 > ->This made me smile :-)  
 

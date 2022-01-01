@@ -280,7 +280,7 @@ Those kids were brainwashed. They were terrorists. Haley told the kids a differe
 > No matter how strong you think you may be  
 > You still need a stranger to love  
 > And who loves you  
-> Children: I can't tell you now, cause you won'tbelieve me  
+> Children: I can't tell you now, cause you won't believe me  
 
 The second Noel:  
 > Time.. time is a ship on a merciless sea  

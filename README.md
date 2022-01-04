@@ -299,3 +299,9 @@ The second Noel:
 
 > ->This made me smile :-)  
 
+For replacing system calls, of course, system calls do not correspond one-to-one with C functions.  
+And, there are too many system calls to implement.  
+So, I replaced system calls one by one by finding which ones refused to work on an actual Nintendo Switch device.  
+
+> ->This made me smile :-)  
+

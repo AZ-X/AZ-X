@@ -305,3 +305,19 @@ So, I replaced system calls one by one by finding which ones refused to work on 
 
 > ->This made me smile :-)  
 
+Who cares about alpha moves? The only thing you could do was to show people how you felt. so much more, Clark. More than this whole chest-bumping macho attitude, you know, like, why  
+What about nice people? Or quiet people? Or even better, people who don't even think like that at all?  
+People who only make things for their own private reasons. Arthur, you like those people because you dominate them from the start.   
+What does that mean? They don't push back against you because you're a movie star. Oh, come on, you're aware of that, yeah?  
+What, you think it's because they love you or they're scared of you, but it's actually because they don't care about you. Man! Yeah.  
+|Beautiful Dreamer|Ave Maria| Then why do I feel so terrible? Morning.  
+Ave dominus Dominus tecum Benedicta tu In mulieribus Et bene Dictus Et benedictus Fructus ventris Ventris tui Jesus Ave Maria  
+Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do Do do do do do  
+Do  
+
+It's a solstice miracle. YAY! So many orphans in this world. Love & Dove.  
+[Set in a post-apocalyptic world, Y is the last surviving male human on the planet. Based on the comic series "Y: The Last Man."]  
+
+I know liberal ARTs.
+
+> ->This made me smile :-)  

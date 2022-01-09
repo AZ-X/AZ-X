@@ -342,3 +342,14 @@ No, he's not a musician! And you're not a carpenter, and he's not a fucking ***b
 You have the journey,that's it.  
 
 > ->This made me smile :-)  
+
+Not like the brazen giant of Greek fame, with conquering limbs astride from land to land;  
+Here at our sea-washed, sunset gates shall stand a mighty woman with a torch, whose flame is the imprisoned lightning, and her name Mother of Exiles.  
+From her beacon-hand glows world-wide welcome; her mild eyes command the air-bridged harbor that twin cities frame.  
+"Keep, ancient lands, your storied pomp!" cries she with silent lips.  
+"Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door!"  
+
+transformed sonnet
+
+> ->This made me smile :-)  
+

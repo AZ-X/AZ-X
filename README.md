@@ -321,3 +321,24 @@ It's a solstice miracle. YAY! So many orphans in this world. Love & Dove.
 I know liberal ARTs.
 
 > ->This made me smile :-)  
+
+Illegal to do everything. Except pay taxes. [sighs]  
+
+Marrying a black man ain't gonna solve your problems, ma'am. It's gonna create a whole bunch of new ones.  
+This is free country. There's degrees of free, ma'am. What does that mean?  
+Government can tell me who to love? Your government says you can't swim. Can't protect yourself. Damn right government can tell you who to love.  
+And how to love 'em. They shouldn't. But they can.  
+Then we go somewhere they can't.  
+
+Beautiful dreamer  
+Wake unto me  
+Starlight and dewdrops are waiting for thee  
+Sounds of the rude world  
+Heard in the day  
+Lull'd by the moonli  
+
+No, he's not a musician! And you're not a carpenter, and he's not a fucking ***blacksmith***. You are pioneers, and that's all you are until you get there. You have no home, no job, no farm.  
+
+You have the journey,that's it.  
+
+> ->This made me smile :-)  

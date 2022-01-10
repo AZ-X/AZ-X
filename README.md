@@ -353,3 +353,10 @@ transformed sonnet
 
 > ->This made me smile :-)  
 
+That's probably true (would be interested in seeing a source), but yeah let's just not forget that a huge portion of the most educated and successful people in the world would also want to move to America if given the opportunity. I definitely agree with your point about low-income immigrants though.  
+Why?  
+It's really cool and the weather is way better.  
+Dr shortages are intentional, Drs get to choose how many Drs graduate per year.  
+Seems like all the Asian Tigers are in the same boat except for Singapore because it's a city-state and allows for a lot of immigration.  
+
+> ->This made me smile :-)  

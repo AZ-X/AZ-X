@@ -366,3 +366,21 @@ That I would rather see
 Than your smile, my love  
 
 > ->This made me smile :-)  
+
+What's eating you, then?  
+We're making too many widows.  
+Too many orphans.  
+We ain't making nuthin'.  
+Their deaths ain't our fault.  
+They're our responsibility. That makes 'em our fault.  
+How's this different than sending soldiers over a hill? You knew they was gonna die. You never shed a tear for them.  
+The hell I didn't.  
+
+There's no such thing as freedom, Elsa. Don't let anyone tell you there is. There's laws, there's rules, there's customs, responsibilities everywhere.  
+The more people you cram together, the more rules there'll be.  
+I don't know what life is like in Oregon, but there'll be rules there too.  
+
+Where is this freedom? Where is this justice?  
+I see the world through my mother's eyes now.  
+
+> ->This made me smile :-)  

@@ -175,7 +175,7 @@ Eva, engage thrusters. SHIT HAPPENS, SORRY.
 
 > ->This made me smile :-)  
 
-Johnny Handsome, Johnny English, Johnny PayPal  
+Johnny Handsome, Johnny English, Johnny PayPal, Johnny Test  
 Jim's favor car is  
 Just did the Alpha Test with python  
 
@@ -382,5 +382,9 @@ I don't know what life is like in Oregon, but there'll be rules there too.
 
 Where is this freedom? Where is this justice?  
 I see the world through my mother's eyes now.  
+
+> ->This made me smile :-)  
+
+In 1840s Borneo, Hello nice to meet you, LORD JIM and THE MAN WHO WOULD BE KING @Edge of the World
 
 > ->This made me smile :-)  

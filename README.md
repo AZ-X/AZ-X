@@ -410,3 +410,12 @@ Everyone remain calm.
 
 > ->This made me smile :-)  
 
+Why don't y'all go hack NASA or the Philippines? But, in return,you can keep operating here freely.  
+I give you my word that the local authorities won't bother you.  
+Please don't let me get killed by a bunch of kids.  
+Deal. Oh, my God. Thank you, Jesus. Thank you. But we want the watch. The router for the watch.  
+It's a fair trade.  
+
+World ain't getting better, Thomas. No matter how many kids are in it.  
+
+> ->This made me smile :-)  

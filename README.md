@@ -388,3 +388,18 @@ I see the world through my mother's eyes now.
 In 1840s Borneo, Hello nice to meet you, LORD JIM and THE MAN WHO WOULD BE KING @Edge of the World
 
 > ->This made me smile :-)  
+
+Sure. It's not your first. It's my first with cracked nipples and a C-section scar.  
+What is it you girls say now, "Free the nipple"?  
+
+Shapeshifters are inorganic, human hybrids from the 'Alternate Universe'.  
+Shapeshifters, in their very first state, resemble humanoid monsters with mucus covered skin, partially exposed ribs, and misshapen heads.  
+The technology also allows transfer of memories and experiences from the victims, allowing them to take the place of their victims without raising suspicion.  
+This also allows the shapeshifters to attain skills that were learned and attributes from their victims aswell such as changing clothes in just a few seconds or shedding their bodies to make clones.  
+
+![First Newton](https://m.media-amazon.com/images/M/MV5BMTM0NzY2NzI0OF5BMl5BanBnXkFtZTcwMDQ5MzU5Mw@@._V1_FMjpg_UX600_.jpg)
+Smith was Newton's Shape-shifter right-hand man.  
+
+Human Whisper are the next generation of Shapeshifters.  
+
+> ->This made me smile :-)  

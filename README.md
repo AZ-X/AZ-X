@@ -397,9 +397,16 @@ Shapeshifters, in their very first state, resemble humanoid monsters with mucus 
 The technology also allows transfer of memories and experiences from the victims, allowing them to take the place of their victims without raising suspicion.  
 This also allows the shapeshifters to attain skills that were learned and attributes from their victims aswell such as changing clothes in just a few seconds or shedding their bodies to make clones.  
 
-![First Newton](https://m.media-amazon.com/images/M/MV5BMTM0NzY2NzI0OF5BMl5BanBnXkFtZTcwMDQ5MzU5Mw@@._V1_FMjpg_UX600_.jpg)
+![First Newton](https://m.media-amazon.com/images/M/MV5BMTM0NzY2NzI0OF5BMl5BanBnXkFtZTcwMDQ5MzU5Mw@@._V1_FMjpg_UX600_.jpg)  
 Smith was Newton's Shape-shifter right-hand man.  
 
 Human Whisper are the next generation of Shapeshifters.  
 
 > ->This made me smile :-)  
+
+These kids are running a full-on troll farm spreading misinformation, disinformation, throughout the world, man..  
+***They could do more damage than a nuclear weapon.***  
+Everyone remain calm.  
+
+> ->This made me smile :-)  
+

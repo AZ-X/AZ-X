@@ -419,3 +419,14 @@ It's a fair trade.
 World ain't getting better, Thomas. No matter how many kids are in it.  
 
 > ->This made me smile :-)  
+
+It's a free country. I can look at whatever I want. Judging by the way you're dressed, you don't mind it.  
+It comes real natural to me.  
+If they can't cross a fucking river, how are they gonna cross the mountains or the goddam desert we go through first?
+I'm mad 'cause he's right.  
+You know, there's going to be a school here next year. Ten years there wasn't nothing, not a soul in this country.  
+And now there's gonna be a school. That's progress. I'm not even sure I know what that word means anymore.  
+Further away you get from concrete, the more worthless those pretty things become. Cause when I take it to the concrete it's worth 50.  
+Your wagon, your rules.  
+
+> ->This made me smile :-)  

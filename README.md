@@ -438,3 +438,11 @@ The researchers showed that they could coat surfaces with films of the material,
 ![Benoît Payan](https://images.laprovence.com/media/2022/01/29/1643451763_payan.jpg?twic=v1/focus=550x200/cover=550x400)  
 
 > ->This made me smile :-)  
+
+ By combining extraordinary intellectual freedom and scientific rigour with access to top resources and a structured, supportive culture  
+ How wonderful  
+ Let me think about the free form of outcomes  
+ Or let the free parts think about me  
+  
+ > ->This made me smile :-)  
+ 

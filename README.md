@@ -434,3 +434,7 @@ Your wagon, your rules.
 The researchers showed that they could coat surfaces with films of the material, which they call 2DPA-1.
 
 > ->This made me smile :-)  
+
+![Benoît Payan](https://images.laprovence.com/media/2022/01/29/1643451763_payan.jpg?twic=v1/focus=550x200/cover=550x400)  
+
+> ->This made me smile :-)  

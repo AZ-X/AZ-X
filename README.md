@@ -486,3 +486,8 @@ But how do they decide where to rain? And when...
 Why do clouds choose to flood one place and deny another until the earth cracks and field becomes desert?  
 
 > ->This made me smile :-)  
+
+Blossoms in the rain Glisten like pink gragon scales.  
+Each one makes me smile.  
+
+> ->This made me smile :-)  

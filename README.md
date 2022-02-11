@@ -446,3 +446,43 @@ The researchers showed that they could coat surfaces with films of the material,
   
  > ->This made me smile :-)  
  
+ The best way to know if land is truly undiscovered is to seek words to describe it. When you can't, you know it's virgin land.  
+ Untouched by our dirty hands. To see it is to be silenced by it.  
+ Made speechless by its endless uniformity...  
+
+To crest a rise is to see another that is identical. One must read the sun and stars like a sailor to navigate this place.  
+We've seen nothing but grass for over a week:  
+no game,  
+no birds,  
+no snakes,  
+not even a lizard, and no evidence the human race still exists.  
+
+But the plains are littered with bones. The dirty hand of man can go unnoticed in the city.  
+Because his dirty hand made the city.  
+
+> ->This made me smile :-)  
+
+But in this place, where innocence is a mineral in the soil, the filth of our touch is an ***apocalypse***.  
+They're just payin' the tax. What tax? You gotta pay a tax when you graze cattle in Comanche land.  
+Well, you don't "gotta", but if you want to stay out of a gunfight, it's a pretty good idea...  
+
+The Comanches can charge a tax?  
+It's their land. They can do whatever they want. The only people who think this is America still live in Washington.  
+There's water in this draw. Push the herd to it.  
+
+What is this "fuck?" Fuck did you just call me? Yes, what is this fuck? He don't know what that word means. Neither does he.  
+But he's about to ask her. Then Lord help you.  
+![Euphoria](https://m.media-amazon.com/images/M/MV5BMzFkN2FlNGUtYzg2NC00Y2ZiLThjZGEtODFmN2M4MjQzNzUxXkEyXkFqcGdeQXVyODExNTExMTM@._V1_FMjpg_UX600_.jpg)
+
+Killing cattle thieves is one the West's five great pleasures. No need for thanks. You can save your thanks for them.  
+There is horror to every killing. Even when it's justified. Even when I killed, I was horrified. But watching Sam kill was like watching a lion hurl itself into a deer.  
+His fury was so magnificent, there was no time for horror. Not even for the men he killed.  
+
+Staring at clouds makes me think. ***I need stars to dream***...
+Oh, to be eighteen again...  
+People think because it's where rain comes from, clouds are filled with water. But how can that be? How can water float above us then fall, as though gravity only applies to the sky when the sky lets it.  
+But that would mean the sky thinks and clouds are alive and they decide to let it rain.  
+But how do they decide where to rain? And when...  
+Why do clouds choose to flood one place and deny another until the earth cracks and field becomes desert?  
+
+> ->This made me smile :-)  

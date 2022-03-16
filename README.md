@@ -491,3 +491,10 @@ Blossoms in the rain Glisten like pink gragon scales.
 Each one makes me smile.  
 
 > ->This made me smile :-)  
+
+Why was the crossbow never invented in the Americas?  
+Why Japan doesn't seem to have adopted the crossbow at any time in its pre-gunpowder history?  
+T.D.: Station D  
+
+> ->This made me smile :-)  
+

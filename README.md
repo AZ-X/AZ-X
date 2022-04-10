@@ -498,3 +498,8 @@ T.D.: Station D
 
 > ->This made me smile :-)  
 
+Texas continues to rank #1 in GDP growth
+
+That's progress.
+
+> ->This made me smile :-)  

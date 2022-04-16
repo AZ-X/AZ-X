@@ -512,11 +512,11 @@ I think it should be nipper.
 
 The processor has deprecated the following technologies and they are no longer supported:
 
-Memory Protection Extensions (MPX)
-Branch Monitoring Counters
-Hardware Lock Elision (HLE), part of TSX-NI
-Software Guard Extensions (SGX)
-TSX-NI
-Power Aware Interrupt Routing (PAIR)
+- Memory Protection Extensions (MPX)
+- Branch Monitoring Counters
+- Hardware Lock Elision (HLE), part of TSX-NI
+- Software Guard Extensions (SGX)
+- TSX-NI
+- Power Aware Interrupt Routing (PAIR)
 
 > ->This made me smile :-)  

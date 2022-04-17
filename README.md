@@ -522,7 +522,6 @@ The processor has deprecated the following technologies and they are no longer s
 > ->This made me smile :-)  
 
 ![Rose](https://m.media-amazon.com/images/M/MV5BN2YxODQ2NWMtM2M1YS00MzRkLWEzNTYtMDg5MzVhZTI5NDkwXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_FMjpg_UY400_.jpg)
-
 ![Rose](https://m.media-amazon.com/images/M/MV5BZDE0ODE2NzktNTkyMC00Mjc5LWFkZmMtNGJkYjVkZTcwOWYyXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_FMjpg_UX480_.jpg)
 
 > ->This made me smile :-)  

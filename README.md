@@ -525,3 +525,27 @@ The processor has deprecated the following technologies and they are no longer s
 ![Rose](https://m.media-amazon.com/images/M/MV5BZDE0ODE2NzktNTkyMC00Mjc5LWFkZmMtNGJkYjVkZTcwOWYyXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_FMjpg_UX480_.jpg)
 
 > ->This made me smile :-)  
+
+I don't know why I watched two pilots one by one in two hours till each closing.
+
+![or](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/Outer.Range.png?raw=true)
+![aoas](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/Anatomy.Of.A.Scandal.png?raw=true)
+
+Ah, ah, ah, ah  
+Ah, ah, ah, ah, ah  
+Ah, ah, ah, ah, ah, ah, ah  
+
+Oh, are you out there?  
+Do you know me?  
+Can you feel me?  
+Can you show me?  
+
+Into the unknown  
+Into the unknown  
+Into the unknown  
+
+It appears in my mind instead of the original sound...  
+
+Lyrics by Disneyclips
+
+> ->This made me smile :-)  

@@ -549,3 +549,14 @@ It appears in my mind instead of the original sound...
 Lyrics by Disneyclips
 
 > ->This made me smile :-)  
+
+Authenticating all humans may break down as authenticating all browsers and apps.  
+Authenticating all browsers and apps may break down as authenticating all data, plugins and input methods.  
+Authenticating all data, plugins and input methods may break down as authenticating identity and every codes running behind.  
+That’s how 'Big Data' works.  
+The bad example is ***Cloudflare***: They do even mess up on authenticating all browsers.  
+In the end, you can ~~cannot~~ authenticate cats and dogs on keyboards unless you put a wire to their pets.  
+
+
+> ->This made me smile :-)  
+

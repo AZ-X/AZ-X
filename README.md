@@ -560,3 +560,25 @@ In the end, you can ~~cannot~~ authenticate cats and dogs on keyboards unless yo
 
 > ->This made me smile :-)  
 
+Don't be such a prick tease.  
+By now you know  
+It's not going to stop  
+Till you wise up  
+You're sure  
+There's a cure  
+And you have finally found it  
+You think  
+One drink  
+Will shrink you till you're underground  
+And living down  
+But it's not going to stop  
+It's not going to stop  
+Till you wise up  
+No, it's not going to stop  
+Till you wise up  
+No, it's not going to stop  
+Till you wise up  
+
+***Till you're really stunned with an eco problem***
+
+> ->This made me smile :-)  

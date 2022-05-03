@@ -582,3 +582,15 @@ Till you wise up
 ***Till you're really stunned with an eco problem***
 
 > ->This made me smile :-)  
+
+MediaTek and Qualcomm, the two largest mobile chipset manufacturers in the world, used the ALAC audio coding in their widely distributed mobile handsets, putting millions of Android users’ privacy at risk  
+
+In late ***2011 Apple*** made the codec open source. Since then, the ALAC format has been embedded in many non-Apple audio playback devices and programs, including Android-based smartphones, Linux and Windows media players and converters  
+
+Since then Apple has been updating the proprietary version of the decoder several times, fixing and patching security issues, but the shared code has not been patched since 2011  
+
+In addition, an unprivileged Android app could use these vulnerabilities to escalate its privileges and gain access to media data and user conversations  
+
+~~Check Point’s customers remain fully protected against such threats while using Harmony Mobile Security.~~
+
+> ->This made me smile :-)  

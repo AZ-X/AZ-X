@@ -594,3 +594,10 @@ In addition, an unprivileged Android app could use these vulnerabilities to esca
 ~~Check Point’s customers remain fully protected against such threats while using Harmony Mobile Security.~~
 
 > ->This made me smile :-)  
+
+GitLab vs GitHub: Which is right for you?  
+
+- While moving your project from one to the other is very feasible, it’s never a good experience having to move platforms. Making the right choice at the right point in time can save you many work hours.
+- There are clear advantages to both, but whether you go with the well Established GitHub or the emerging GitLab, you’re getting a platform that has most, if not all, of your needs, covered. Albeit possibly to different degrees and at different price points.
+
+> ->This made me smile :-)  

@@ -601,3 +601,34 @@ GitLab vs GitHub: Which is right for you?
 - There are clear advantages to both, but whether you go with the well Established GitHub or the emerging GitLab, you’re getting a platform that has most, if not all, of your needs, covered. Albeit possibly to different degrees and at different price points.
 
 > ->This made me smile :-)  
+
+You cannot solve social problems ("how do i know I can trust Z") with technology.
+
+meta-code-verify is itself vulnerable to the trust chain. You trust Mozilla/Chrome not to alter the version you install from their store. You trust that GitHub isn't going to pull a swifty on you, or Facebook. You trust that the server hosting the append only log hasn't been unknowingly compromised, or the interpreter, or your machine, etc. ad nauseum.
+
+Indeed, you trust in your computer to display the right hash, and to compare them correctly.
+
+Everyone is pretending to be hard at work tippy-tapping away, writing, wrangling, and working on brand new code to build a bright future.
+
+~~There's no place in the world that is exempt from this. So you could either move to Mars and hope the Elon doesn't do things like everyone else, or you can try to effect change here, but it's an uphill battle.~~
+
+There's no battle between you and your pets accurately.
+
+> ->This made me smile :-)  
+
+Evil Never Sleeps:  
+When Wireless Malware Stays On After Turning Off "the mobile"
+
+Note that LPM described in this paper is different from the energy saving mode indicated by a yellow battery icon.
+
+The Bluetooth and UWB chips are hardwired to the Secure Element (SE) in the NFC chip, storing secrets that should be available in LPM.
+
+Since LPM support is implemented in hardware, it cannot be removed by changing software components.
+
+LPM is significantly more stealthy than a fake power off that only disables the screen.
+
+The ROM is readable with a vendor-specific Host Controller Interface (HCI) command supported by all Broadcom chips. We use InternalBlue to send such HCI commands.
+
+Firmware is patched temporarily in RAM. Broadcom calls this mechanism Patchram, and it has been documented within the InternalBlue project.
+
+> ->This made me smile :-)  

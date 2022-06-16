@@ -632,3 +632,19 @@ The ROM is readable with a vendor-specific Host Controller Interface (HCI) comma
 Firmware is patched temporarily in RAM. Broadcom calls this mechanism Patchram, and it has been documented within the InternalBlue project.
 
 > ->This made me smile :-)  
+
+I am touching you there's not a lot you can do  
+I am sitting on you cause what they say is true  
+What is it you girls say now, "Free the nipple"?  
+Her co-star, Laurence Fishburne, he does an incredible speech  
+
+Once upon a time  
+The world was sweeter than we knew  
+Everything was ours  
+How happy we were then  
+But somehow once upon a time  
+Never comes again  
+Once upon a time  
+Never comes again  
+
+> ->This made me smile :-)  

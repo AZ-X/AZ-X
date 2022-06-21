@@ -648,3 +648,10 @@ Once upon a time
 Never comes again  
 
 > ->This made me smile :-)  
+
+From Alexander to Janna, the Storm's Fury was a climate change.  
+Does everything follow the legacy?  
+
+World ain't getting better, Thomas. No matter how many kids are in it.  
+
+> ->This made me smile :-)  

@@ -655,3 +655,25 @@ Does everything follow the legacy?
 World ain't getting better, Thomas. No matter how many kids are in it.  
 
 > ->This made me smile :-)  
+
+Ain't no mountain high enough  
+Ain't no valley low enough  
+Ain't no river wide enough  
+Nothing can keep me from you  
+See you around  
+Didn't I tell you  
+I wouldn't hold you down?  
+You're gonna make it  
+Remember me as a sunny day  
+That you once had  
+Along the way  
+Didn't I inspire you ***a little higher***?  
+Remember me as a breath of spring  
+Remember me when you drink the wine  
+Didn't I, boy?  
+Remember me as a big balloon  
+
+Trevor, you're invisible to me cause I don't know you damn boy! Turn & Run  
+Now I am a fan of ~~Diana Ross~~ Yasmeen Sulieman's balloons and always Ava Briglia  
+
+> ->This made me smile :-)  

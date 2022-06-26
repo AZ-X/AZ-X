@@ -674,6 +674,7 @@ Didn't I, boy?
 Remember me as a big balloon  
 
 Trevor, you're invisible to me cause I don't know you damn boy! Turn & Run  
+![RUN](https://img.youtube.com/vi/EuEa5_m-E38/mqdefault.jpg)  
 Now I am a fan of ~~Diana Ross~~ Yasmeen Sulieman's balloons and always Ava Briglia  
 
 > ->This made me smile :-)  

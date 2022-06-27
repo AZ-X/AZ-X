@@ -678,3 +678,14 @@ Trevor, you're invisible to me cause I don't know you damn boy! Turn & Run
 Now I am a fan of ~~Diana Ross~~ Yasmeen Sulieman's balloons and always Ava Briglia  
 
 > ->This made me smile :-)  
+
+This is America. Everything here is for sale. But today we would give it to him for nothing.  
+You know, people want sex, danger, violence, transgressions, melodrama. They want tragedy. Yada, yada, yada. I know. It's S01 not S04.  
+Least the Riots games ensured our job security. That wasn't exactly the point of the Riots. Yeah, 'cause the riots had no point. They won us our freedom.  
+Didn't tell us who we could be, it told us who we already were.  
+Take a look at this world. Nobody wants easy or natural. Art is a lie that tells the truth, honey.  
+~~And the truth is, you need to get laid.~~  
+And the truth is, you need to paint the sky with rainbows.  
+
+> ->This made me smile :-)  
+ 

@@ -688,4 +688,28 @@ Take a look at this world. Nobody wants easy or natural. Art is a lie that tells
 And the truth is, you need to paint the sky with rainbows.  
 
 > ->This made me smile :-)  
- 
+
+***40% of Goose users now connect via IPv6***
+
+15 hours ago:  
+On a local link, if you know the ipv6 address of one machine you can guess others by getting their device ID (MAC address) and then modifying the known address. So you can use neighbor discovery to find the other MAC addresses to craft the IP addresses.  
+I think you can also take advantage of router advertisement or client solicitations somehow but I’m not familiar with the details (i.e. passive listening on multicast vis a vis broadcast)  
+
+12 hours ago:  
+Seems like India is leading in IPv6 adoptions , Jio has leading ISP.  
+
+13 hours ago:  
+And if you click through to see the US, it’s over 50%.  
+
+16 hours ago:  
+Firewalls are more complex on IPv6 (you need to pass a bunch of ICMPv6 through, to make it work), and some residential routers have very bad or even zero firewall support for ipv6, so your devices, that would otherwise be "protected" (not really) by NAT are now directly visible to everyone on the internet.  
+This usually ~~isn't~~ also become a problem for power users (who ~~know~~just think they know how to set up and (re)confgure a firewall) nor for most basic users (windows firewall does that for them), but people "in the middle", who install some service and just fully disable the OS's firewall to be able to connect to it, are now vulnerable.  
+
+13 hours ago:  
+Where did you get that information?  
+
+11 hours ago:  
+In the UK at least one of our main providers Virgin Media has still not enabled support for IPv6  
+
+> ->This made me smile :-)  
+

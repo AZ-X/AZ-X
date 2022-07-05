@@ -713,3 +713,31 @@ In the UK at least one of our main providers Virgin Media has still not enabled 
 
 > ->This made me smile :-)  
 
+![The Undeclared War](https://github.com/AZ-X/MEDIA/blob/master/PNG/uw/The%20Undeclared%20War.png?raw=true)  
+![The Undeclared War](https://github.com/AZ-X/MEDIA/blob/master/PNG/uw/The%20Undeclared%20War%202.png?raw=true)  
+![The Undeclared War](https://github.com/AZ-X/MEDIA/blob/master/PNG/uw/The%20Undeclared%20War%203.png?raw=true)  
+![The Undeclared War](https://github.com/AZ-X/MEDIA/blob/master/PNG/uw/The%20Undeclared%20War%204.png?raw=true)  
+
+
+The poor Benji...  
+These kids are running a full-on troll farm spreading misinformation, disinformation, throughout the world, lady..  
+***They could do more damage than a nuclear weapon.***
+
+> ->This made me smile :-)  
+
+
+There are some things even your money can't buy.  
+Who said anything about me paying you?  
+I'm here backed by the full power of the United States government.  
+Yes, but do you have an appointment?  
+I've always wondered, why do they call you the "secret" service? Aren't you a little... Men in Black?
+You can do what you want offshore, we've always turned a blind eye. But not here.  
+I'm what you'd call "neurodivergent." And I've had some time to become comfortable with that.  
+I think the press will have some colorful ways like painting the sky with rainbows.  
+I thought I was wrapped in power. And I realized I was naked. Alone. As I've always been.  
+That all my power was illusory.  
+Hemingway said, "***The world breaks everyone. And it's only afterwards that we grow strong in the broken places.***"
+
+Welcome to the Golden Age. Nearly 150 years ago, this world had its first great war. The globe was torn apart by fighting, decimated by a pandemic, crushed by loss.  
+
+> ->This made me smile :-)  

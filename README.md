@@ -741,3 +741,8 @@ Hemingway said, "***The world breaks everyone. And it's only afterwards that we 
 Welcome to the Golden Age. Nearly 150 years ago, this world had its first great war. The globe was torn apart by fighting, decimated by a pandemic, crushed by loss.  
 
 > ->This made me smile :-)  
+
+For these reasons, NIST is not moving NTRU Prime to the fourth round of the evaluation process.  
+In order to hedge against the possibility of a security vulnerability involving structured lattice KEMs, NIST will consider standardizing a KEM that is not based on lattices, after a fourth round of evaluation.  
+
+> ->This made me smile :-)  

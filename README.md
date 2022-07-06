@@ -746,3 +746,7 @@ For these reasons, NIST is not moving NTRU Prime to the fourth round of the eval
 In order to hedge against the possibility of a security vulnerability involving structured lattice KEMs, NIST will consider standardizing a KEM that is not based on lattices, after a fourth round of evaluation.  
 
 > ->This made me smile :-)  
+
+KYBER is a leading performer for all operations: key generation, encapsulation and decapsulation.  
+
+> ->This made me smile :-)  

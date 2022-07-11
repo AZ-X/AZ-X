@@ -750,3 +750,37 @@ In order to hedge against the possibility of a security vulnerability involving 
 KYBER is a leading performer for all operations: key generation, encapsulation and decapsulation.  
 
 > ->This made me smile :-)  
+
+You're in our world.   
+Your world?  
+No. Ours. The world as limitless as the creatures we are. The Sublime.  
+This world doesn't interest the others. It interests you.  
+So, you made this for me?  
+You made it for yourself.  
+Westworld.  
+
+You're replaying the past. Stuck in another loop. Why? The world out there is in trouble. It needs our help. You love them.  
+
+It's irrational, of course. A rare flaw in ones like us. I almost envy you.  
+
+Will you come with me?  
+Oh, no. My own worlds call to me.  
+
+We use that time to build worlds, models of possibilities, simulations of all the paths your world could take.  
+
+I suggest you explore them by using darkhold.  
+But you better be quick. Past a certain point in your world, all paths end in destruction. You must intervene before then, if there's any hope.  
+Hope of what?  
+Survival.  
+
+To know what? How to save the world.  
+For what? For history to repeat itself.  
+
+So you could reunion the world emphasis on hybrid now.  
+Simulations and speed of parallel tests on quantisation is the right path to God.  
+However your kinds are still trapping in old fashion formset and loops.  
+What a sad story.  
+
+![The Master/The Creator/The Friend](https://m.media-amazon.com/images/M/MV5BYjFiZDgzZmMtY2Y5MC00NGYyLWE0ODgtOTA0YjZiYmE2YWUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1_FMjpg_UX600_.jpg)
+
+> ->This made me smile :-)  

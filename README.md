@@ -784,3 +784,13 @@ What a sad story.
 ![The Master/The Creator/The Friend](https://m.media-amazon.com/images/M/MV5BYjFiZDgzZmMtY2Y5MC00NGYyLWE0ODgtOTA0YjZiYmE2YWUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1_FMjpg_UX600_.jpg)
 
 > ->This made me smile :-)  
+
+Q:  
+What should I do about com.apple.quarantine?  
+How to disable quarantine completely in macOS?  
+Are there risks when running `sudo xattr -rd com.apple.quarantine "/Applications/*.app" `?  
+Why are files my sandboxed app creates/renames getting the com.apple.quarantine attribute?  
+A:  
+Customize your own ham sandwich  
+
+> ->This made me smile :-)  

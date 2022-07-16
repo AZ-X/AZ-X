@@ -794,3 +794,8 @@ A:
 Customize your own ham sandwich  
 
 > ->This made me smile :-)  
+
+![Beyond](https://m.media-amazon.com/images/M/MV5BNzQ4MTUzMjMtMTE1Zi00YWYzLTgzY2QtZDI2MTUxOTEzYTJhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UY720_.jpg)  
+![SALEM](https://m.media-amazon.com/images/M/MV5BZWYwNTAyZTMtYzQ5Zi00N2MwLTlmOWYtMWVlOTgwY2ZhY2QzXkEyXkFqcGdeQXVyMjExMzc2MTY@._V1_FMjpg_UY673_.jpg)  
+
+> ->This made me smile :-)  

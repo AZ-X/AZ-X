@@ -831,3 +831,10 @@ Within the dark seams of Runeterra, the demon Evelynn searches for her next vict
 ![Evelynn K/DA ALL OUT](https://gameriv.com/wp-content/uploads/2020/10/previous-696x411.jpg)  
 
 > ->This made me smile :-)  
+
+You know, when the end of the world comes, we eat the vegans first.  
+One punch. Right in the tit. Hey. I'm sorry. I should have just let it go. Can we be cool?  
+I'm okay. I don't think I'm a dog person anymore.  
+Well, that's okay.  
+
+> ->This made me smile :-)  

@@ -799,3 +799,35 @@ Customize your own ham sandwich
 ![SALEM](https://m.media-amazon.com/images/M/MV5BZWYwNTAyZTMtYzQ5Zi00N2MwLTlmOWYtMWVlOTgwY2ZhY2QzXkEyXkFqcGdeQXVyMjExMzc2MTY@._V1_FMjpg_UY673_.jpg)  
 
 > ->This made me smile :-)  
+
+And, you know, last year, we were voted best place to live in the world.  
+By who? Lulu Lemon whores? Guys, that jerk off to CrossFit? Elon Musk?  
+What bit me? A dog. Will I have to quarantine? No, it's not like Covid.  
+I, uh, need to make a call. Can I use your `sat link`?  
+
+What's your name? It's Dave.  
+What do you do for Umbrella, Dave? I'm a server admin. And, um…  
+how many people can do your job, Dave? A thousand? Ten thousand? I guess? And do you know how many people could do my job? One. Me.  
+Okay. Cool? It's not. It means I work too much. It means… I'm not much of a father.  
+What happens if I call the people that own this town? The people that pay you and me and her.  
+What happens if I call them and I say that I'm going to quit unless they fired you.  
+I don't want you fired. I want you blacklisted. I want it so that no tech company ever hires you.  
+Not Apple. Not Google. I want PornHub to shred your resume.  
+Now, if I say that what do you think they're going to do, Dave? Dave.
+I, uh… Hey, man… Look, man…I didn't mean to…  
+Love & Dove.  
+
+How's your wife? Diana~~Yasmeen Sulieman~~ and I are fine. Thank you so much for asking.  
+You find out who hacked us? Not yet, but we'll figure it out.  
+
+What do you want, Evelyn?  
+Like I told you. Joy.  
+
+Umbrella. A company besieged by legal scandal and falling stock prices is now trying to reinvent itself with a major push into direct-to-consumer drugs.  
+Critics say that the company's operating at a dangerous burn rate, but Umbrella's betting big on the move.  
+Brainchild of newly minted CEO, Evelyn Marcus.  
+
+Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous façade of a human female, but once a person succumbs to her charms, Evelynn's true form is unleashed.  
+![Evelynn K/DA ALL OUT](https://gameriv.com/wp-content/uploads/2020/10/previous-696x411.jpg)  
+
+> ->This made me smile :-)  

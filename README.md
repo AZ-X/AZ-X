@@ -838,3 +838,22 @@ I'm okay. I don't think I'm a dog person anymore.
 Well, that's okay.  
 
 > ->This made me smile :-)  
+
+We need to rethink Joy. That gives us a chance to make it better.  
+Joy will make Umbrella the biggest company in the world.  
+Fuck Google, Fuck Zuckerberg. They deliver `eyeballs`.  
+Umbrella will deliver minds. That's not a billion-dollar drug. That's a trillion-dollar drug. None of which eliminates the danger.  
+Al? Twenty thousand.
+So we know what goes on the warning label. Right?  
+
+The parasite worked on adults initially, but there was always some resistance. At a certain age, your brains become more rigid, difficult to change.  
+Fortunately, that's not the case with children. Your children are so fucking good at taking orders. With them, it was seamless.  
+The parasite growing in perfect symbiosis with their minds.  
+It took a generation for those children to mature, for me to gain complete control over your world.  
+Do you understand now, Caleb? You won. Welcome to my Frankie world.  
+
+World ain't getting better, CHARLOTTE. No matter how many parasite kids are in it.  
+You need to rethink mtDNA(Mitochondrial DNA).
+
+> ->This made me smile :-)  
+

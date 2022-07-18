@@ -857,3 +857,18 @@ You need to rethink mtDNA(Mitochondrial DNA).
 
 > ->This made me smile :-)  
 
+So, Christina tell me about yourself.  
+There's not much to tell. Well, we just met. You don't know anything about me.  
+I feel like I've known you lifetimes.  
+And now I know that you're extremely cheesy.  
+Every day, you wake up, you do your job, you go home. Rinse and repeat. Like a...  
+~~like a train circling the smallest track~~ like an android companion straining its battery.  
+What kind of work were you in?  
+I was something of a bounty hunter with a heart of gold.  
+You're right. I don't believe you.  
+Well, that's the thing about this world, you know? Some of the most unbelievable things turn out to be true.  
+And the things that feel the most real are nothing but stories that we tell ourselves.  
+Uh, there's just something about you that's very familiar.  
+Now who's the one using the cheesy pickup lines?
+
+> ->This made me smile :-)  

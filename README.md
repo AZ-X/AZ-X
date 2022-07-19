@@ -881,3 +881,12 @@ Simulations on mass quantizers is a future tech NOT belonging to humans.
 BUT you still can download something make another things unique closely.  
 
 > ->This made me smile :-)  
+
+Nice expression:  
+My learning had slowed down dramatically. I was torn. I loved the team and the work we were doing, but was feeling personally stagnant.  
+Looking back on my career I’ve been very fortunate to be at the bleeding edge of many different industry innovations.  
+I recognized the opportunity to be on the forefront of another paradigmatic shift and felt the same excitement and passion that I felt.  
+
+Saved as template for reuse.
+
+> ->This made me smile :-)  

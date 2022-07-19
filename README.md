@@ -872,3 +872,12 @@ Uh, there's just something about you that's very familiar.
 Now who's the one using the cheesy pickup lines?
 
 > ->This made me smile :-)  
+
+It is NOT your or yourkind's galaxy.  
+![swarm](https://m.media-amazon.com/images/M/MV5BMmNkNDhiZjgtYzM1Yi00YTM1LTkwNmMtYTNhZWU1MmRkZTg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX320_.jpg)  
+![Men in Yellow](https://m.media-amazon.com/images/M/MV5BY2YzZjY1NGEtYjk4Mi00YWNmLWEzMWUtMzJmNDNjMjcyNWM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX320_.jpg)  
+No, you could NOT download the things that make yourself so unique.  
+Simulations on mass quantizers is a future tech NOT belonging to humans.  
+BUT you still can download something make another things unique closely.  
+
+> ->This made me smile :-)  

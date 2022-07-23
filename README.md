@@ -903,7 +903,7 @@ Because HN tend to be on the left, like CNN.
 
 > ->This made me smile :-)  
 
-The first cases of feeling unreal of `Westworld` go back to S01E01. Why there are no bots/host/master weaponized in both world. Why there are high level intelligences enveloped by low end illusion in first place. It's called DPD.  
+The first cases of feeling unreal of `Westworld` go back to S01E01. Why there are no bots/host/master weaponized in both world. Why there are high level intelligences enveloped by low end illusion in first place. Why people are focusing on cash flow. It's called DPD.  
 ![1A84](https://m.media-amazon.com/images/M/MV5BZWY3ZWFkMzYtMmZmMi00OTZkLWExZjMtMTdhZTk1Nzk0NzVhXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX480_.jpg)  
 
 ViVid DEMI DEUS

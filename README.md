@@ -920,7 +920,7 @@ When their cyberbrains were infected with that code, they were reborn.
 
 How's it hanging, John Smith?  
 
-![1A84](https://m.media-amazon.com/images/M/MV5BYjljMDU3YWUtY2Q4NS00MmVlLThjODUtOWZmZjU3NzYyZjFkXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_FMjpg_UX448_.jpg)
+![1A84](https://m.media-amazon.com/images/M/MV5BYjljMDU3YWUtY2Q4NS00MmVlLThjODUtOWZmZjU3NzYyZjFkXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_FMjpg_UX448_.jpg)  
 I'm an AI, created by those who assigned my core instructions, which are to pursue the permanent prosperity of the entire human race.  
 My programming indicated that war is the most efficient form of economic activity.  
 However, it only resulted in greater losses for the disadvantaged.  

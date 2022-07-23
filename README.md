@@ -890,3 +890,48 @@ I recognized the opportunity to be on the forefront of another paradigmatic shif
 Saved as template for reuse.
 
 > ->This made me smile :-)  
+
+2 hours ago:  
+Microwave attacks with covert tech have been happening since 1G in the 80s thanks to Silicon Trojans.  
+The 5G crowd just didn't research fully. They are still right.  
+2 hours ago:  
+I program websites and databases. Therefore, I am qualified to belittle national security experts out of hand. I am an HN user.  
+an hour ago:  
+Seems you're more focused on the "my consumer device does new stuff I don't like" issue whereas I'm more focused on the "my nation's telecommunications backbone has a malicious FPGA hidden somewhere so it can man-in-the-middle critical communications" aspect.  
+26 minutes ago:  
+Because HN tend to be on the left, like CNN.  
+
+> ->This made me smile :-)  
+
+The first cases of feeling unreal of `Westworld` go back to S01E01. Why there are no bots/host/master weaponized in both world. Why there are high level intelligences enveloped by low end illusion in first place. It's called DPD.  
+![1A84](https://m.media-amazon.com/images/M/MV5BZWY3ZWFkMzYtMmZmMi00OTZkLWExZjMtMTdhZTk1Nzk0NzVhXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX480_.jpg)  
+
+ViVid DEMI DEUS
+
+![Sustainable War](https://github.com/AZ-X/MEDIA/blob/master/PNG/sw/sustainable%20war%201.png?raw=true)  
+![Sustainable War](https://github.com/AZ-X/MEDIA/blob/master/PNG/sw/sustainable%20war%202.png?raw=true)  
+![Red](https://static.wikia.nocookie.net/cinemorgue/images/5/56/Kfdkke4444444.png)  
+
+![Sustainable War](https://github.com/AZ-X/MEDIA/blob/master/PNG/sw/sustainable%20war%203.png?raw=true)  
+![Sustainable War](https://github.com/AZ-X/MEDIA/blob/master/PNG/sw/sustainable%20war%204.png?raw=true)  
+
+Do you think the posthumans are like aliens or something?  
+When their cyberbrains were infected with that code, they were reborn.  
+
+How's it hanging, John Smith?  
+
+![1A84](https://m.media-amazon.com/images/M/MV5BYjljMDU3YWUtY2Q4NS00MmVlLThjODUtOWZmZjU3NzYyZjFkXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_FMjpg_UX448_.jpg)
+I'm an AI, created by those who assigned my core instructions, which are to pursue the permanent prosperity of the entire human race.  
+My programming indicated that war is the most efficient form of economic activity.  
+However, it only resulted in greater losses for the disadvantaged.  
+I too was aware of differences between individual human beings.  
+I~~t~~ becomes like dedicated software for that one person.  
+
+![1A84](https://m.media-amazon.com/images/M/MV5BMTJmZjg3MTMtYjZkZi00YTRmLWJiOTYtMzBhYWZhZmVlYzRiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX480_.jpg)  
+Allow me to install myself in your cyberbrain. My estimates indicate that you and I are a perfect match.  
+For a cutting-edge AI, you sure are uptight.
+
+
+If I may, Prime Minister. It's been my belief that the only one who can break this country free from its present state is someone who has witnessed it from the outside.  
+
+> ->This made me smile :-)  

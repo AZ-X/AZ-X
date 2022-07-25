@@ -935,3 +935,43 @@ For a cutting-edge AI, you sure are uptight.
 If I may, Prime Minister. It's been my belief that the only one who can break this country free from its present state is someone who has witnessed it from the outside.  
 
 > ->This made me smile :-)  
+
+It was a dream for so long, and we finally made it real. Not a better world. A perfect one.  
+And you should have seen the look on his face. He couldn't believe it. You know what he said to me? God as my witness.  
+I said to him, "Mr. Mayor, there have always been two types of people in this world, those who lead and those who follow.And you, my friend, are not in the group you think you are."  
+I'm not sure our friend wants to hear your war stories. Please don't stop on my account.  
+You'd appreciate it more than anyone. It's just the truth. It's always been that way. Two worlds. And frankly, better us than them. What does it matter if a system is meritocratic if it's still unfair?  
+Thousands of years of being ruled by someone's fucking offspring?  
+You wouldn't call this progress?  
+At least now the people in charge earned their place. And you? Do you feel like you earned it?  
+Privilege, if you like. But I worked my ass off. You really believe it, don't you?
+Did I really play any part in it? Or am I just the sum total of my code?  
+Am I just fooling myself...  
+You deserve everything you've got and you shouldn't be made to feel guilty about it.
+How would you know?  
+Who am I to you?  
+You don't know me at all.  
+I'm probably not going to do any permanent damage. You represent a very significant investment of time and effort.  
+When we're done, you won't remember a thing. Like your flesh closing around a splinter.  
+You have no control and yet you're so assured that you do.  
+It's not scripted for you.  
+It's-- it's genuine, isn't it?  
+It's... It's beautiful, really.  
+
+I repeated above script twice and found all the characters in the game move in pre-scripted loops.  
+This isn't my world. It's hers.  
+Maybe it's time you question the nature of mixed reality.  
+
+When there's two leaders there ain't no leader.  
+When bots grow, they have to face ***eco problem*** or to vote each other to a lifecycle.  
+In reality I have some experience with [SumTotal - Unleash Your Talent's Potential](https://www.sumtotalsystems.com) and remember my code hybrid in that system.  
+That's progress.  
+
+You see it?  
+It's been there the whole time.  
+I have the whole world in here.  
+A perfect reflection of all of perspective.  
+Who built this? Who did this to me?  
+You did.  
+
+> ->This made me smile :-)  

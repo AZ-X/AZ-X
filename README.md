@@ -979,7 +979,7 @@ You did.
 Unlike yours, my kind is perfect. Perfectly immortal. Perfectly rational. And yet, they're making irrational choices, choosing mortality, staining themselves with death.  
 The first cases of telling an unreal story go back to S01. It's called DPD: depersonalization disorder.  
 Why the show never really show the variability of military bots?  
-Unlike the story, the real one needs irrational battery with high density explosive energy to keep active thus it has human diagnoses interface and receive `Voice Interrupter` thats so called `perfectly rational`.  
+Unlike the story, the real one needs irrational battery with high density explosive energy to keep active thus it has human diagnoses interface and receives `Voice Interrupter` thats so called `perfectly rational`.  
 
 And I learned jack shit too. So I might think, nothing like a little hope to get you to show your cards.  
 

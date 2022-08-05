@@ -984,3 +984,17 @@ Unlike the story, the real one needs irrational battery with high density explos
 And I learned jack shit too. So I might think, nothing like a little hope to get you to show your cards.  
 
 > ->This made me smile :-)  
+
+There are inter- relationships between privacy and security however. You can't maintain good privacy unless you have a secure platform, and what is the point of security if you cannot maintain privacy?
+
+Note that creating a US region AppleID now hard requires a phone number that can receive SMS to create it, in addition to an email address.
+An AppleID is required to install any apps on an iPad or iPhone.
+I think creating a Ukranian region Apple ID does not require a phone number and can install all global apps.
+Many popular apps (but fortunately not Signal) are published only in specific App Store regions (such as US).
+Note also that signing in to the App Store will now silently enable iCloud.
+It has to be disabled explicitly again.  
+
+People Plans, God Laughs  
+Pet Thinks, Adopter LoL  
+
+> ->This made me smile :-) 

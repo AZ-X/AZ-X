@@ -997,4 +997,12 @@ It has to be disabled explicitly again.
 People Plans, God Laughs  
 Pet Thinks, Adopter LoL  
 
-> ->This made me smile :-) 
+> ->This made me smile :-)  
+
+Big people feel pain too.  
+Yes, next Tuesday, right after I kick your ass.  
+Tuesday's not gonna work. Cannot do Tuesday, I'm already...
+Gentlemen, when we argue, the terrorists win.  
+Stop it! Stop it! What? That's not my knife! That's not my...  
+
+> ->This made me smile :-)  

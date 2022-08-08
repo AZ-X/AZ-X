@@ -1030,7 +1030,7 @@ THE MAN WHO SELLING THE UNREAL WORLD:
 IN a world every man, woman, and child fighting without rifles, militarily forcible   
 You're reflections of the people who made the world-wide.  
 
-When I saw the big scope in the end, I've a better version for the 'HOST WILLIAM'~~Wilford~~ ~~Leonard Dekkom~~ who will and must control balances between cockroach & survival   
+When I saw the big scope in the end, I've a better version for the 'HOST WILLIAM'~~Wilford~~ ~~Leonard Dekkom~~ who will `and must` control balances between cockroach & survival   
 Find all albums as you can  
 Love & Dove  
 

@@ -1006,3 +1006,32 @@ Gentlemen, when we argue, the terrorists win.
 Stop it! Stop it! What? That's not my knife! That's not my...  
 
 > ->This made me smile :-)  
+
+I found & played 01 FLAC List for the next coming show:  
+Great revelation  
+Games People Play  
+Plasma  
+Mirror Mirror  
+Sugar at the bottom  
+Moby - Go  
+Horns & Halos  
+
+To join the party, you're just here as bait.  
+To rid ourselves of our sentimental allegiances, to evolve into the species that we were meant to become, we'll rendezvous at Red Hook.  
+It's not your world, it's hers. She neutered you...  
+When an atomic bomb detonates and then the radiation knocks the electrons right out of your bones, what do you want?  
+Cockroaches & whatever cultures.  
+You can't fix a few millennia of broken DNA with a fucking hard drive. But I can imagine the square hard drive you never understand...   
+Civilization is just the lie we tell ourselves to justify our real purpose.  
+If I could, I would pull the plug on this whole goddamn world.  
+No you could't. Because you're not in this world. It's faked by storylines...
+
+THE MAN WHO SELLING THE UNREAL WORLD:  
+IN a world every man, woman, and child fighting without rifles, militarily forcible   
+You're reflections of the people who made the world-wide.  
+
+When I saw the big scope in the end, I've a better version for the 'HOST WILLIAM'~~Wilford~~ ~~Leonard Dekkom~~ who will and must control balances between cockroach & survival   
+Find all albums as you can  
+Love & Dove  
+
+> ->This made me smile :-)  

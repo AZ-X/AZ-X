@@ -1052,3 +1052,9 @@ Is there anything else I should know about you, Johns?
 You know, I... I'm letting you roll the dice on our lives. It is not unreasonable...  
 
 > ->This made me smile :-)  
+
+an hour ago:  
+Yah, downvote me all you like. I remain proud to be an advocate of free speech, even for those who want to end free speech.  
+I don't know about that, other states with different formal structures also do the same sorts of things.  
+
+> ->This made me smile :-)  

@@ -1035,3 +1035,20 @@ Find all albums as you can
 Love & Dove  
 
 > ->This made me smile :-)  
+
+He's got that nickel-slick badge and that blue uniform  
+But I do know once the dying starts, this little psycho-fuck family of ours is gonna rip itself apart.  
+So who are you, really?  
+You're not a cop, are you?  
+I never said I was a cop.  
+No, you didn't.  
+And you never said you were a hype, either.  
+You have caffeine in the morning,  
+I have a little morphine. So what?  
+We have enough drugs here to knock out a fucking mule team.  
+Agent Johns, you naughty boy.  
+
+Is there anything else I should know about you, Johns?  
+You know, I... I'm letting you roll the dice on our lives. It is not unreasonable...  
+
+> ->This made me smile :-)  

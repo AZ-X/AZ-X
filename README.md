@@ -1058,3 +1058,8 @@ Yah, downvote me all you like. I remain proud to be an advocate of free speech, 
 I don't know about that, other states with different formal structures also do the same sorts of things.  
 
 > ->This made me smile :-)  
+
+Everybody in the tri-county knows who makes the best palmetto rose
+Sunday morning you're too tired to go to church but you thank God for the work
+
+> ->This made me smile :-)  

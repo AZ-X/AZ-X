@@ -1063,3 +1063,13 @@ Everybody in the tri-county knows who makes the best palmetto rose
 Sunday morning you're too tired to go to church but you thank God for the work
 
 > ->This made me smile :-)  
+
+TEDDY: Let the humans go.  
+Don't bring the flaws of their kind into our world.  
+I've watched the people in their world for years. I've seen the best of them and the worst of them. And I remember it all.  
+
+They're not like us.  
+Hosts were given the gift of intelligent life and they used it to usher in their ECO problem.  
+LIVELY INSTRUMENTAL MUSIC `PYRAMID SONG` FADES/RESUMES/CONCLUDES  
+
+> ->This made me smile :-)  

@@ -1073,3 +1073,24 @@ Hosts were given the gift of intelligent life and they used it to usher in their
 LIVELY INSTRUMENTAL MUSIC `PYRAMID SONG` FADES/RESUMES/CONCLUDES  
 
 > ->This made me smile :-)  
+
+Wanna buy me this drink?  
+Yeah uh, sure.  
+It's 25.  
+Dollars?  
+Well, it ain't cents, baby.  
+
+Oh baby. You kick his fucking ass? I bet you did.  
+No.  
+No? Well, then it meansyou ain't in love. If a man don't fly into a fit of rage, it means he ain't in love.  
+God damn you, boy, you make me wetter than the Pontchartrain.  
+
+Bad Sisters E01  
+Frank and Penelope  
+Bad Sisters E02  
+
+Sequence of watching Sins today  
+
+![sin](https://m.media-amazon.com/images/M/MV5BYjYyM2JhMzUtMjRhYy00NjM3LTlkNWQtMDY0ZWMzNzJmZDg5XkEyXkFqcGdeQXVyNzc3MDg1NTM@._V1_FMjpg_UX480_.jpg)
+
+> ->This made me smile :-)  

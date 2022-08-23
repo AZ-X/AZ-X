@@ -1094,3 +1094,16 @@ Sequence of watching Sins today
 ![sin](https://m.media-amazon.com/images/M/MV5BYjYyM2JhMzUtMjRhYy00NjM3LTlkNWQtMDY0ZWMzNzJmZDg5XkEyXkFqcGdeQXVyNzc3MDg1NTM@._V1_FMjpg_UX480_.jpg)
 
 > ->This made me smile :-)  
+
+![Approaching high hypersonic](https://github.com/AZ-X/MEDIA/blob/master/PNG/Top_Gun_Maverick/Top.Gun.Maverick.2022.IMAX.png?raw=true)  
+![Mach 20](https://www.allnightnippon.com/upimage/kagaku/5840/1/53940-G.jpg)  
+
+These planes you've been testing, one day, sooner than later, they won't need pilots at all.  
+Pilots that need to sleep, eat,take a piss.  
+Pilots that disobey orders.  
+The future is coming, and you're not in it.  
+"The JAM have relinquished themselves to technology"  
+
+My true love is 「Project Super Nova」~~Sharon Apple~~.  
+
+> ->This made me smile :-)  

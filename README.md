@@ -1129,3 +1129,23 @@ Anything that happens in a public setting can easily find its way to a global au
 And, it must be said, the internet is chock-full of nudity.
 
 > ->This made me smile :-)  
+
+ 34 minutes ago:  
+"Ugh. Nude beaches are full of overweight, out-of-shape old bodies and I don't want to go there and realize I look exactly like that."  
+Bobs Burgers - [s03e11](https://www.imdb.com/title/tt2605340)
+
+Willing to bet the reason why all those French and Danish women don't want to go to the nude beach is because a lot of the guys showing up aren't French or Danish.  
+6 minutes ago:  
+No True Frenchman would go to a nude beach.
+
+> ->This made me smile :-)  
+
+16 minutes ago:  
+Also if the ration went from more or less 50-50% M:F to now to 90%+ male and the male portion leans heavily older...  
+So women are not showing up and the men who show up are old geezers...  
+So no young woman would want to be looked and stared at especially by the old geezers who are the majority.
+
+It's the old `"why we can't have nice things"`.
+
+> ->This made me smile :-)  
+

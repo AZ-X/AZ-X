@@ -1107,3 +1107,25 @@ The future is coming, and you're not in it.
 My true love is 「Project Super Nova」~~Sharon Apple~~.  
 
 > ->This made me smile :-)  
+
+People don’t generally bother hiding under a towel while changing into their swimwear.  
+And there are no laws prohibiting public nudity in Denmark, so it’s normal to see topless women sunbathing along the harbor that runs through the city or people skinny-dipping at the beach.
+
+This apparent retreat from public nudity is not isolated to Denmark.  
+Among French women, topless sunbathing has been steadily falling out of fashion for years; its popularity reached a nearly 40-year low in 2021.
+
+It’s harder to gauge how things are trending in the United States, where the push during the early 1970s to legalize nudity on public beaches was far less successful than it was in Europe.  
+On the other hand, many of the nude beaches that were around in the U.S. in their heyday no longer exist, says Mark Storey, a staff writer and consulting editor at Nude & Natural magazine who’s spent the past 20 years writing about clothing-optional settings.  
+It seems like the gender ratio has gone from nearly 50–50 to more than 95 percent males in some places.
+
+Those that remain seem to be drawing a very different crowd than they did in the 1970s.  
+Back then, nude beaches attracted the “less-moneyed youth” who couldn’t afford a `private nudist club` but could manage the often-treacherous climb down to the isolated stretches of beach where nudity was tolerated.
+
+In the decades before the internet, even busy public nude beaches allowed for an element of privacy. Stephen L. Harp, a history professor in Twentieth-Century France: “In the 1950s, on the Île du Levant, someone with a camera would have it seized, and the film removed and used as tree decoration,”  
+Anything that happens in a public setting can easily find its way to a global audience on the internet, a reality that may make internet-savvy Millennials and Gen Zers more cautious about stripping down.
+
+“Their bodies are always on display, and they’re always a potential commodity. It’s hard to be born into that environment and then envision this world where you’re freed of it.”
+
+And, it must be said, the internet is chock-full of nudity.
+
+> ->This made me smile :-)  

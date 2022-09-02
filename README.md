@@ -1149,3 +1149,15 @@ It's the old `"why we can't have nice things"`.
 
 > ->This made me smile :-)  
 
+2 hours ago:  
+Beware that such techniques slow down memory access for the newly running VM quite substantially.  
+For example, a simple memset() call across a few gigabytes of RAM inside the VM might slow down a factor of 1000x after a VM clone like this.  
+Both 'parent' and 'child' VM's see the slowdowns.  
+Some types of garbage collector also see really substantial slowdowns.  
+It was a deal-breaker for my project where I did similar sorts of things.
+
+43 minutes ago:  
+There's something seriously wrong with the page on Firefox.  
+The whole browser locks up for a few seconds when you scroll up/down. Couldn't possibly read the article.
+
+> ->This made me smile :-)  

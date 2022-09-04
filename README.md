@@ -1161,3 +1161,18 @@ There's something seriously wrong with the page on Firefox.
 The whole browser locks up for a few seconds when you scroll up/down. Couldn't possibly read the article.
 
 > ->This made me smile :-)  
+
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.0.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.1.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.2.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.3.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.4.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.5.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.6.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.7.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.8.png?raw=true)
+
+`WOW` -> `WoH`
+
+> ->This made me smile :-)  

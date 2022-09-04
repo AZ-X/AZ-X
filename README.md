@@ -1176,3 +1176,11 @@ The whole browser locks up for a few seconds when you scroll up/down. Couldn't p
 `WOW` -> `WoH`
 
 > ->This made me smile :-)  
+
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.9.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.10.png?raw=true)
+
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.11.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.12.png?raw=true)
+
+> ->This made me smile :-)  

@@ -1184,3 +1184,12 @@ The whole browser locks up for a few seconds when you scroll up/down. Couldn't p
 ![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.12.png?raw=true)
 
 > ->This made me smile :-)  
+
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.13.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.14.png?raw=true)  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.15.png?raw=true)
+
+I like this fantastic story :)))
+
+
+> ->This made me smile :-)  

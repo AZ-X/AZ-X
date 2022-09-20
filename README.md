@@ -1193,3 +1193,17 @@ I like this fantastic story :)))
 
 
 > ->This made me smile :-)  
+
+10 hours ago:  
+Absolutely true; but, for example, YouTube search results also employ a variety of finely tuned parameters that uprank or downrank certain videos, with zero transparency or oversight. YouTube Trending and Twitter Trends are heavily editorialized, and nothing shows up before it is manually approved by an employee. You might have even seen Twitter "trends" that, when you click on them, only show you 5 tweets by a single verified Twitter account, and nothing else; no discussion is shown. Twitter Search results (the "Top" tab) show popular tweets mixed in with 60-likes tweets, to prevent you from accurately gauging "the mood" or the predominant opinion. These companies feel perfectly entitled to decide what you'll see.
+
+Every social media is founded on an algorithm, and they are all black boxes. "if they want to dumb people down, they can", but most of the criticism is true of every platform.
+
+33 minutes ago:  
+Instagram wasn't much different back when it was a new thing. I don't remember Facebooks launch that good, but somehow I have an impression that it was just as addictive, until people got used to it and got bored.
+
+While all these boys show up on HN, I am considering throwing these stories to garbage.  
+I never care about these platforms, so do monks.  
+
+> ->This made me smile :-)  
+

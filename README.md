@@ -1218,8 +1218,8 @@ Just for reference, facebook has pretty strict guidelines for sending unsolicite
 
 In order for us to send you an unsolicited message, that message must use a preapproved template. Those templates are not supposed to be used for marketing purposes (although it's easy enough to craft a seemingly transactional template that is actually marketing). And there's also some cases that are a bit of a gray area.
 
-However, in our experience, users are brutal flagging spammy messages as spammy, and facebook has pretty strict deliverability rules. If your quality drops, your messages stop being delivered.
+However, in our experience, users are brutal flagging spammy messages as spammy, and facebook has pretty strict deliverability rules. If your quality drops, your messages stop being delivered. They deliver `eyeballs`.
 
-I never use that aPP?
-Never Say Never:(
+I never use that aPP?  
+Never Say Never:(  
 > ->This made me smile :-)  

@@ -1207,3 +1207,19 @@ I never care about these platforms, so do monks.
 
 > ->This made me smile :-)  
 
+21 minutes ago:  
+We sell financial services in a developing country. We're not a mobile app—we're just a mobile-first website (a common gripe on HN is 'there's too many apps, just make a website'. Well, we're one of them).
+
+We need to be able to get in touch with our customers for transactional purposes (changes to their account, delivery notifications, login links, that sort of thing). Our customers don't have email. SMS gets filtered at the phone level (and uses untrustworthy, shared numbers). The only option is WhatsApp.
+
+Most of the world does not have a computer, they have a phone. So at this point it's either WA or a native app + push notifications. Which would you prefer?
+
+Just for reference, facebook has pretty strict guidelines for sending unsolicited messages.
+
+In order for us to send you an unsolicited message, that message must use a preapproved template. Those templates are not supposed to be used for marketing purposes (although it's easy enough to craft a seemingly transactional template that is actually marketing). And there's also some cases that are a bit of a gray area.
+
+However, in our experience, users are brutal flagging spammy messages as spammy, and facebook has pretty strict deliverability rules. If your quality drops, your messages stop being delivered.
+
+I never use that aPP?
+Never Say Never:(
+> ->This made me smile :-)  

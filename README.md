@@ -1223,3 +1223,13 @@ However, in our experience, users are brutal flagging spammy messages as spammy,
 I never use that aPP?  
 Never Say Never:(  
 > ->This made me smile :-)  
+
+Thank you, Mr. President, for those kind words, but it's all part of the job.  
+Frank, I'd like you to consider filling a special post I'm going to create. It may mean long hours,dangerous nights, and being surrounded by some of the scummiest elements in our society.  
+You want me to be in your cabinet?  
+No... No! I want you to head up a new Federal Bureau of Police Squad.
+
+But now I want to be known as "The Environmental Police Lieutenant".  
+I want a world where Frank Junior, and all the Frank Juniors, can sit under a shade tree, breathe the air, swim in the ocean, and go into a 7-Eleven without an interpreter. I want a world where I can eat a sea otter without getting sick. 
+
+> ->This made me smile :-)  

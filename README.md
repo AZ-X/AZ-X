@@ -1240,3 +1240,9 @@ Well, I'm quite sure...
 There is a fraud in this room, but it's this man!  
 
 > ->This made me smile :-)  
+
+![FV  tells a different story](https://i2.paste.pics/f5622033ae711b36e0bbcda393a67866.png)  
+Once a Zaunite gangster, Warwick became a monster after being transmuted by Singed.
+
+
+> ->This made me smile :-)  

@@ -1282,7 +1282,7 @@ You eke out maximum performance from poorly documented devices and apis using ob
 
 
 26 minutes ago:  
-> But nobody wants to go into COBOL for fairly obvious reasons.
+> But nobody wants to go into COBOL for fairly obvious reasons.  
 On YouTube, type in "COBOL Mainframe", and you'll find out pretty quickly that there's a plenty of guys from India, including juniors who work with or on COBOL and Mainframes.  
 
 

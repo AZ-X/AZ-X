@@ -1251,3 +1251,54 @@ Once a Zaunite gangster, Warwick became a monster after being transmuted by Sing
 This page contains an overview of software (un)affected by the OpenSSL vulnerability. NCSC-NL and partners are attempting to maintain a list of all known vulnerable and not vulnerable software. Listed software is paired with specific information regarding which version contains the security fixes and which software still requires fixes. Please note that this vulnerability may also occur in custom software developed within your organisation. These occurrences are not registered in this overview.  
 
 > ->This made me smile :-)  
+
+
+2 hours ago:  
+Many hardware companies still see software as just another line item on the BOM: Like a screw or a gasket. It's something you build cheaply or buy from a supplier and sprinkle it on the product somewhere on the assembly line. These hardware companies have no concept of typical measures of software quality, building an ecosystem, release management, sometimes even no concept of source control. They tell an overworked embedded software engineer: "Go build something that barely meets these requirements, ship it, and then throw the scrap away." like metal shavings from their CNC machine.  
+
+I learned programming in the 90's using C++.  
+When someone expresses this intent I always ask the same question. Am I a supergenius or are you mistaken?  
+How is this relevant?  
+boomer sooner  
+The point is just because we can teach programming with cpp, does it mean that we should?  
+Seems like no.  
+There are better designed langs and ecosystems that allow students to move faster. Go python c#  
+
+- [ ]C++ is the new COBOL.  
+
+an hour ago:  
+I'm always amazed at how badly embedded programming and C++ programming in general pay compared to the others you mention like Python & Ruby. A good C++ programmer has to know a whole lot more (and be careful about a whole lot more) than a Python or Ruby programmer does. C++ is well known to be a complicated beast - probably the most complicated programming language in existence with plenty of footguns. And an embedded developer needs to know a lot about both software and hardware.  
+
+I did a few a few months of contracting at a major voting machine company. They make a significant portion of all US voting machines. They had 4 developer teams Firmware (C++ where I was), UI (web tech on a voting machine), poll book (java), and a web/support team. Before I was hired in a massive influx of contractors each team was something like 3~5 people, except UI which was a new team with the contractor hiring spree.  
+After the work was done, they shed nearly all the contractors and about half of their previous full time employees. Just quadrupled their staff to make a voting machine then fired them all.  
+They hired me as an "Embedded Software" on their Firmware team. It was a total shitshow we didn't have unit tests or CI. The new hires insisted on it and I spent a bunch of time maintaining a Jenkins setup for the team that really helped.  
+The pay wasn't great, a little less than defense contracting, which was a little less than insurance companies and slow finance companies.  
+If that is what most embedded development is like then I see why it is brings the average down.  
+
+35 minutes ago:  
+Isn't that nuts? It basically comes down to, if you're further from management, you're not valued.  
+Oh, you can change the color of the button on my website? 200k/year!  
+You eke out maximum performance from poorly documented devices and apis using obscure toolchains and custom built linux kernels to run on small chips that are the backbone of our business? 75k/year!  
+
+
+26 minutes ago:  
+> But nobody wants to go into COBOL for fairly obvious reasons.
+On YouTube, type in "COBOL Mainframe", and you'll find out pretty quickly that there's a plenty of guys from India, including juniors who work with or on COBOL and Mainframes.  
+
+
+>- [ ]C++ is the next C++  
+>Abstract  
+>Programmer’s, Businesses and Government(s) want C++ to be safer and simpler. This has led some C++ programmers to create new programming languages or preprocessors, which again is a new language. This paper discusses using static analysis to make the C++ language itself safer and simpler.  
+>The C++ Core Guidelines identifies issues that this feature helps to mitigate.  
+>The beauty of this proposal is it does not and it does remove features from C++. Like the standard library, it allows programmers to refrain from using the most troublesome C and C++ features.  
+
+an hour ago:  
+If I recall, back when HeartBleed hit, the OpenSSL Project only had 1 FTE worth of paid developers & managers working on their code.  
+Wikipedia claims that (as of 2019) they have 2 FTE's worth, plus a dozen or so volunteers...who are a big overlap with their management committee. And their total budget is < $1M/year.  
+Not to suggest that volunteer coders are automatically lesser coders...but for widely-used, uber-critical, uber-complex code, that sounds pretty profoundly under-resourced.  
+
+Edit: Adding the full quote from Wikipedia: "As of May 2019, the OpenSSL management committee consisted of 7 people and there are 17 developers with commit access (many of whom are also part of the OpenSSL management committee). There are only two full-time employees (fellows) and the remainder are volunteers."  
+It looks like there are 27 contributors with over 50 commits since Heartbleed was revealed  
+
+
+> ->This made me smile :-)  

@@ -1264,7 +1264,7 @@ The point is just because we can teach programming with cpp, does it mean that w
 Seems like no.  
 There are better designed langs and ecosystems that allow students to move faster. Go python c#  
 
-- [ ]C++ is the new COBOL.  
+- [:question:]C++ is the new COBOL.  
 
 an hour ago:  
 I'm always amazed at how badly embedded programming and C++ programming in general pay compared to the others you mention like Python & Ruby. A good C++ programmer has to know a whole lot more (and be careful about a whole lot more) than a Python or Ruby programmer does. C++ is well known to be a complicated beast - probably the most complicated programming language in existence with plenty of footguns. And an embedded developer needs to know a lot about both software and hardware.  
@@ -1286,7 +1286,7 @@ You eke out maximum performance from poorly documented devices and apis using ob
 On YouTube, type in "COBOL Mainframe", and you'll find out pretty quickly that there's a plenty of guys from India, including juniors who work with or on COBOL and Mainframes.  
 
 
->- [ ]C++ is the next C++  
+>- [:grey_question:]C++ is the next C++  
 >Abstract  
 >Programmer’s, Businesses and Government(s) want C++ to be safer and simpler. This has led some C++ programmers to create new programming languages or preprocessors, which again is a new language. This paper discusses using static analysis to make the C++ language itself safer and simpler.  
 >The C++ Core Guidelines identifies issues that this feature helps to mitigate.  

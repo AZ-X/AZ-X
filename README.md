@@ -1303,3 +1303,7 @@ It looks like there are 27 contributors with over 50 commits since Heartbleed wa
 
 
 > ->This made me smile :-)  
+
+Who led off the stunning with an ego problem?
+
+> ->This made me smile :-)  

@@ -1318,6 +1318,7 @@ But it is extremely limiting to answer the good question without expertise.
 
 > ->This made me smile :-)  
 
+Generally, the Introspector does not always work perfectly and is easy to break - it's a static analysis tool so it gets confused by function pointers and cannot infer anything that happens at runtime, like when your code is heavily using C++ classes or a hashtable for lookups.  
+In case of X.509 code, however, it may work fine - function pointers are mostly used by the ASN.1 code for its internals (which we actualy do NOT want to fuzz or review in most cases) whereas the core top-level logic is reachable by direct function calls from the entrypoint - a good candidate for static analysis.  
 
-
-
+> ->This made me smile :-)  

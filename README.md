@@ -1307,3 +1307,17 @@ It looks like there are 27 contributors with over 50 commits since Heartbleed wa
 Who led off the stunning with an ego problem?
 
 > ->This made me smile :-)  
+
+A good question is whether Apple violated privacy laws like GDPR with the use of this identifier combined with the description of the device analytics opt-out.  
+An answer to that question is well outside my expertise.  
+
+November 21, 2022
+
+But it is extremely limiting to avoid using features without associating with that identifier.  
+But it is extremely limiting to answer the good question without expertise.  
+
+> ->This made me smile :-)  
+
+
+
+

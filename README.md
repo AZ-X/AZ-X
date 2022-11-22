@@ -1316,9 +1316,28 @@ November 21, 2022
 But it is extremely limiting to avoid using features without associating with that identifier.  
 But it is extremely limiting to answer the good question without expertise.  
 
+
 > ->This made me smile :-)  
 
 Generally, the Introspector does not always work perfectly and is easy to break - it's a static analysis tool so it gets confused by function pointers and cannot infer anything that happens at runtime, like when your code is heavily using C++ classes or a hashtable for lookups.  
 In case of X.509 code, however, it may work fine - function pointers are mostly used by the ASN.1 code for its internals (which we actualy do NOT want to fuzz or review in most cases) whereas the core top-level logic is reachable by direct function calls from the entrypoint - a good candidate for static analysis.  
+
+
+> ->This made me smile :-)  
+
+This phone verification shit is so awful. I have two friends who moved overseas and disconnected their cellphone plans without thinking about their MFA situation.  
+Today I have to enforce MFA at the small company I'm working at, and just a month prior I held a cybersecurity seminar for them and explained that "phone MFA is… okay… but you should really use verification apps." But I didn't realize that you can't even enable authenticator-app-MFA with goose without doing it through a phone first… just infuriating.  
+
+17 hours ago:  
+Yup. You have to enable it, add property MFA, then disable it.  
+Because goose knows best.  
+an hour ago:  
+I just installed Authy on my other Android phone and I need to login with my "phone number".... WTF...?  
+
+Can we ~~please~~ **ban** these sorts of posts? This isn't news. People's news feeds are not the place for individual tech support problems. **Take** it to the goose community forum.  
+
+This is a web forum, not a news agency. And I personally find the discussion on these sorts of posts interesting and informative.  
+Man I love how tech companies have "innovated" customer service obsolete.  
+
 
 > ->This made me smile :-)  

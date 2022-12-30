@@ -1355,3 +1355,8 @@ THERE ARE LOTS OF COSPLAYER AROUND WORLD, YOU KNOW WHAT I MEAN. IT MAKES SENSE.
 ![Hacker NEWS](https://i.redd.it/qd0i59j41hd01.jpg)  
 
 > ->This made me smile :-)  
+
+Unfortunately dboy only has one or many Apple devices, so he has full of idea about InternalBlues.  
+
+> ->This made me smile :-)  
+

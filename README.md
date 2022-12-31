@@ -1360,3 +1360,9 @@ Unfortunately dboy only has one or many Apple devices, so he has full of idea ab
 
 > ->This made me smile :-)  
 
+Corrected:  
+Dboy only have a fashionable Mac and he has no idea how Windows and Android work.  
+
+> ->This made me smile :-)  
+
+

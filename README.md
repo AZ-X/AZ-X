@@ -1365,4 +1365,25 @@ Dboy only have a fashionable Mac and he has no idea how Windows and Android work
 
 > ->This made me smile :-)  
 
+Oh, where is she?  
+You’re the detective. You tell me.  
+You’re right. Once upon a time  
+Once upon a time, I had a husband who didn’t give a shit about my feelings or my time.  
+I just want to talk to my daughter. She’s an adult.  
+She doesn’t have to talk to you if she doesn’t want to.  
+I’m better than ever. Hell 
+She doesn’t want to talk to you.  
+Her last text was two words: "Bite me."  
+
+That’s it. We play the cards we’re dealt. Sometimes we win, and sometimes we bite it.  
+
+He was a sniper. He's like a hero.  
+Says who?  
+The other soldiers.  
+
+![S.W.A.T.](https://m.media-amazon.com/images/M/MV5BMTg5NDA4OTQ0N15BMl5BanBnXkFtZTYwNTI0NTc3._V1_FMjpg_UX485_.jpg)  
+
+![S.W.A.T.](https://m.media-amazon.com/images/M/MV5BNTI5OTExNmMtZTc0Ni00MGVlLThmOTItMzJmZGU3ZGMyY2U2XkEyXkFqcGdeQXVyODUzNDU3NTA@._V1_FMjpg_UX600_.jpg)  
+
+> ->This made me smile :-)  
 

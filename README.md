@@ -1387,3 +1387,6 @@ The other soldiers.
 
 > ->This made me smile :-)  
 
+It's fascinating how reading the post makes me think, "well, it's one person's side of the story, and I don't really know how bad the behavior is," but then this HN comment thread, when compared to typical HN discourse, appears to be solid evidence for the claims in the post. (turn on showdead and read some flagged messages to see what I mean)
+
+> ->This made me smile :-)  

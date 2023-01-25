@@ -1390,3 +1390,14 @@ The other soldiers.
 It's fascinating how reading the post makes me think, "well, it's one person's side of the story, and I don't really know how bad the behavior is," but then this HN comment thread, when compared to typical HN discourse, appears to be solid evidence for the claims in the post. (turn on showdead and read some flagged messages to see what I mean)
 
 > ->This made me smile :-)  
+
+When team leads asked why we had to do this, World of Warcraft directors explained that while they did not agree, the reasons given by executive leadership were that it was important to squeeze the bottom-most performers as a way to make sure everybody continues to grow.  
+This sort of policy encourages competition between employees, sabotage of one another’s work, a desire for people to find low-performing teams that they can be the best-performing worker on, and ultimately erodes trust and destroys creativity.
+
+But Blizzard management chose to fire Brian Birmingham, leaving the WoW Classic team short one of its most public-facing devs.
+
+As Bloomberg notes, while stack ranking is employed at some tech companies, its obvious toxicity has led others to abandon it – including Microsoft, which is still angling to finish its purchase of Activision-Blizzard this summer.
+
+How many people can do your job, Dave? A thousand? Ten thousand? I guess? And do you know how many people could do my job? One. Me.
+
+> ->This made me smile :-)  

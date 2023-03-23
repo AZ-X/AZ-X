@@ -1406,3 +1406,19 @@ How many people can do your job, Dave? A thousand? Ten thousand? I guess? And do
 >  S4.E2 Confirmed Dead (2008)  
 >  S4.E11 Cabin Fever (2008)  
 >  S5.E7 The Life and Death of Jeremy Bentham (2009)  
+
+>  Dear readers,
+>  
+>  After nearly 25 years of operation, DPReview will be closing in the near future. This difficult decision is part of the annual operating plan review that our parent company shared earlier this year.
+>  
+>  The site will remain active until April 10, and the editorial team is still working on reviews and looking forward to delivering some of our best-ever content.
+>  
+>  Everyone on our staff was a reader and fan of DPReview before working here, and we’re grateful for the communities that formed around the site.
+>  
+>  Thank you for your support over the years, and we hope you’ll join us in the coming weeks as we celebrate this journey.
+>  
+>  Sincerely,
+>  
+>  Scott Everett
+>  General Manager - DPReview.com
+

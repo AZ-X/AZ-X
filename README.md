@@ -1456,3 +1456,22 @@ is chosen to match CECPQ2.
 [Even go.dev dropped it so fast :)](https://go.dev)
 
 > ->This made me smile :-)  
+
+What's so special about these swords? What do they do?  
+It depends.  
+On what? What about a tall, strong, brave man like me?  
+The demons of the forest who had taught him their dark powers and trained him in their lethal arts of killing.  
+They say only demons have the power to see past a witch's disguise.  
+Where did you learn to fight like that? From demons.  
+Yet we found you, accepted you, trained you. We taught you many things.  
+And now you're here to help them. They are good men.  
+![Men in Yellow](https://m.media-amazon.com/images/M/MV5BY2YzZjY1NGEtYjk4Mi00YWNmLWEzMWUtMzJmNDNjMjcyNWM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX320_.jpg)  
+![Constantine](https://m.media-amazon.com/images/M/MV5BNzExZTYxNjctY2RhOC00ODJkLTg4NmEtM2MwN2U3ZjBkNGFkXkEyXkFqcGdeQXVyOTA5NjI3MzA@._V1_FMjpg_UX320_.jpg)  
+![The Demon's Advocate](https://m.media-amazon.com/images/M/MV5BOThhOGJhZjAtMTc2OC00ZTM5LTkyNGMtZjJlMWZmZGYwMjdjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX320_.jpg)  
+
+
+Whatever happens in there, whatever you see, don't draw your weapon.  
+You told him not to draw his sword. If he does, he and all his men will die.  
+You passed their test. Your men are safe.  
+
+> ->This made me smile :-)  

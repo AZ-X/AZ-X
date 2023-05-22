@@ -5,17 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-You found a secret! AZ-X/AZ-X is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+You found a secret! AZ-X/AZ-X is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it's public and initialize it with a README to get started.
 
 ### The README.md is hijacked by AZ-X nominally and now it is like a time-based mini blogs or collection of twitter style moments or the arts of quoting representing the edge of ambient past and future.
 
@@ -71,11 +71,11 @@ BlueKeep: Fragmentation and Aggregation Attaches since 1997, but what's the matt
 
 > ->This made me smile :-)  
 
-[thanks Thomas](https://www.forbes.com/sites/thomasbrewster/) Whilst Americans may not have heard of the app, according to one analysis, it’s the fourth biggest browser by user numbers in the world, largely because of large user bases in Asia, but were hosted in the U.S.
+[thanks Thomas](https://www.forbes.com/sites/thomasbrewster/) Whilst Americans may not have heard of the app, according to one analysis, it's the fourth biggest browser by user numbers in the world, largely because of large user bases in Asia, but were hosted in the U.S.
 
 > ->This made me smile :-)  
 
-Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that every time he visited a website, it was being encrypted and transmitted back to the 'company'. On Apple’s iOS, he didn’t even need to reverse engineer the encryption because there effectively was 'none' on the device (though it was encrypted when in transit).
+Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that every time he visited a website, it was being encrypted and transmitted back to the 'company'. On Apple's iOS, he didn't even need to reverse engineer the encryption because there effectively was 'none' on the device (though it was encrypted when in transit).
 
 > ->This made me smile :-)  
 
@@ -83,7 +83,7 @@ Once the 'AES' key had been cracked, ~~he~~***every hop*** was able to see that 
 
 > ->This made me smile :-)  
 
-fallback divide-and-conquer: indicating that the security level of 40 bits is due to export regulations, far-reaching consequences on the user’s privacy
+fallback divide-and-conquer: indicating that the security level of 40 bits is due to export regulations, far-reaching consequences on the user's privacy
 
 > ->This made me smile :-)  
 
@@ -124,7 +124,7 @@ func wifi_info() -> String? {
 There's only little public documentation about the AOP. All chips and various embedded devices Apple manufactures run a real-time operating system, called RTKitOS. The AOP on the iPhone is no exception. However, the AOP has a special role. It connects to almost every other chip in the iPhone. For some chips, it only does basic tasks like power management, and for other chips, it acts as a transparent proxy that wakes up iOS when needed.  
 The bag may help with some exfiltration routes, but it can store locations and other info and upload it when it gets a signal back.  
 Then just turn it off in Settings.  
-It’s a feature of Pixel phones, not Android.  
+It's a feature of Pixel phones, not Android.  
 Just like why people continue to use FB/Twit/blah; that's where the people are.  
 
 > ->This made me smile :-)  
@@ -170,7 +170,7 @@ Turn off. The new has an eternal battery life and can't be powered down. Forever
 No, no, no, no, no, no! [mini nested echoes]  
 
 It's been pretty hectic around here.  
-You are categorized as low-level maintenance crew. An android companion is not an ‘approved expense’. You were registered at a cost of $500,000. The android cost $40 million. Please get us those reading STAT.  
+You are categorized as low-level maintenance crew. An android companion is not an ‘approved expense'. You were registered at a cost of $500,000. The android cost $40 million. Please get us those reading STAT.  
 Eva, engage thrusters. SHIT HAPPENS, SORRY.  
 
 > ->This made me smile :-)  
@@ -230,7 +230,7 @@ Helen. Didn't work.
 
 > ->This made me smile :-)  
 
-IPFS has used different kinds of hashing algorithms, different ways to format the hashes, and will change the default algorithm for building the merkle-trees, so basically ***the same content*** now has a gigantic number of possible names/addresses, which defeats the entire purpose, and yes, files hashed using different strategies aren’t automagically compatible  
+IPFS has used different kinds of hashing algorithms, different ways to format the hashes, and will change the default algorithm for building the merkle-trees, so basically ***the same content*** now has a gigantic number of possible names/addresses, which defeats the entire purpose, and yes, files hashed using different strategies aren't automagically compatible  
 And yes, that makes you upset even a flipflop.
 
 > ->This made me smile :-)  
@@ -553,7 +553,7 @@ Lyrics by Disneyclips
 Authenticating all humans may break down as authenticating all browsers and apps.  
 Authenticating all browsers and apps may break down as authenticating all data, plugins and input methods.  
 Authenticating all data, plugins and input methods may break down as authenticating identity and every codes running behind.  
-That’s how 'Big Data' works.  
+That's how 'Big Data' works.  
 The bad example is ***Cloudflare***: They do even mess up on authenticating all browsers.  
 In the end, you can ~~cannot~~ authenticate cats and dogs on keyboards unless you put a wire to their pets.  
 
@@ -583,7 +583,7 @@ Till you wise up
 
 > ->This made me smile :-)  
 
-MediaTek and Qualcomm, the two largest mobile chipset manufacturers in the world, used the ALAC audio coding in their widely distributed mobile handsets, putting millions of Android users’ privacy at risk  
+MediaTek and Qualcomm, the two largest mobile chipset manufacturers in the world, used the ALAC audio coding in their widely distributed mobile handsets, putting millions of Android users' privacy at risk  
 
 In late ***2011 Apple*** made the codec open source. Since then, the ALAC format has been embedded in many non-Apple audio playback devices and programs, including Android-based smartphones, Linux and Windows media players and converters  
 
@@ -591,14 +591,14 @@ Since then Apple has been updating the proprietary version of the decoder severa
 
 In addition, an unprivileged Android app could use these vulnerabilities to escalate its privileges and gain access to media data and user conversations  
 
-~~Check Point’s customers remain fully protected against such threats while using Harmony Mobile Security.~~
+~~Check Point's customers remain fully protected against such threats while using Harmony Mobile Security.~~
 
 > ->This made me smile :-)  
 
 GitLab vs GitHub: Which is right for you?  
 
-- While moving your project from one to the other is very feasible, it’s never a good experience having to move platforms. Making the right choice at the right point in time can save you many work hours.
-- There are clear advantages to both, but whether you go with the well Established GitHub or the emerging GitLab, you’re getting a platform that has most, if not all, of your needs, covered. Albeit possibly to different degrees and at different price points.
+- While moving your project from one to the other is very feasible, it's never a good experience having to move platforms. Making the right choice at the right point in time can save you many work hours.
+- There are clear advantages to both, but whether you go with the well Established GitHub or the emerging GitLab, you're getting a platform that has most, if not all, of your needs, covered. Albeit possibly to different degrees and at different price points.
 
 > ->This made me smile :-)  
 
@@ -693,13 +693,13 @@ And the truth is, you need to paint the sky with rainbows.
 
 15 hours ago:  
 On a local link, if you know the ipv6 address of one machine you can guess others by getting their device ID (MAC address) and then modifying the known address. So you can use neighbor discovery to find the other MAC addresses to craft the IP addresses.  
-I think you can also take advantage of router advertisement or client solicitations somehow but I’m not familiar with the details (i.e. passive listening on multicast vis a vis broadcast)  
+I think you can also take advantage of router advertisement or client solicitations somehow but I'm not familiar with the details (i.e. passive listening on multicast vis a vis broadcast)  
 
 12 hours ago:  
 Seems like India is leading in IPv6 adoptions , Jio has leading ISP.  
 
 13 hours ago:  
-And if you click through to see the US, it’s over 50%.  
+And if you click through to see the US, it's over 50%.  
 
 16 hours ago:  
 Firewalls are more complex on IPv6 (you need to pass a bunch of ICMPv6 through, to make it work), and some residential routers have very bad or even zero firewall support for ipv6, so your devices, that would otherwise be "protected" (not really) by NAT are now directly visible to everyone on the internet.  
@@ -884,7 +884,7 @@ BUT you still can download something make another things unique closely.
 
 Nice expression:  
 My learning had slowed down dramatically. I was torn. I loved the team and the work we were doing, but was feeling personally stagnant.  
-Looking back on my career I’ve been very fortunate to be at the bleeding edge of many different industry innovations.  
+Looking back on my career I've been very fortunate to be at the bleeding edge of many different industry innovations.  
 I recognized the opportunity to be on the forefront of another paradigmatic shift and felt the same excitement and passion that I felt.  
 
 Saved as template for reuse.
@@ -1108,23 +1108,23 @@ My true love is 「Project Super Nova」~~Sharon Apple~~.
 
 > ->This made me smile :-)  
 
-People don’t generally bother hiding under a towel while changing into their swimwear.  
-And there are no laws prohibiting public nudity in Denmark, so it’s normal to see topless women sunbathing along the harbor that runs through the city or people skinny-dipping at the beach.
+People don't generally bother hiding under a towel while changing into their swimwear.  
+And there are no laws prohibiting public nudity in Denmark, so it's normal to see topless women sunbathing along the harbor that runs through the city or people skinny-dipping at the beach.
 
 This apparent retreat from public nudity is not isolated to Denmark.  
 Among French women, topless sunbathing has been steadily falling out of fashion for years; its popularity reached a nearly 40-year low in 2021.
 
-It’s harder to gauge how things are trending in the United States, where the push during the early 1970s to legalize nudity on public beaches was far less successful than it was in Europe.  
-On the other hand, many of the nude beaches that were around in the U.S. in their heyday no longer exist, says Mark Storey, a staff writer and consulting editor at Nude & Natural magazine who’s spent the past 20 years writing about clothing-optional settings.  
+It's harder to gauge how things are trending in the United States, where the push during the early 1970s to legalize nudity on public beaches was far less successful than it was in Europe.  
+On the other hand, many of the nude beaches that were around in the U.S. in their heyday no longer exist, says Mark Storey, a staff writer and consulting editor at Nude & Natural magazine who's spent the past 20 years writing about clothing-optional settings.  
 It seems like the gender ratio has gone from nearly 50–50 to more than 95 percent males in some places.
 
 Those that remain seem to be drawing a very different crowd than they did in the 1970s.  
-Back then, nude beaches attracted the “less-moneyed youth” who couldn’t afford a `private nudist club` but could manage the often-treacherous climb down to the isolated stretches of beach where nudity was tolerated.
+Back then, nude beaches attracted the “less-moneyed youth” who couldn't afford a `private nudist club` but could manage the often-treacherous climb down to the isolated stretches of beach where nudity was tolerated.
 
 In the decades before the internet, even busy public nude beaches allowed for an element of privacy. Stephen L. Harp, a history professor in Twentieth-Century France: “In the 1950s, on the Île du Levant, someone with a camera would have it seized, and the film removed and used as tree decoration,”  
 Anything that happens in a public setting can easily find its way to a global audience on the internet, a reality that may make internet-savvy Millennials and Gen Zers more cautious about stripping down.
 
-“Their bodies are always on display, and they’re always a potential commodity. It’s hard to be born into that environment and then envision this world where you’re freed of it.”
+“Their bodies are always on display, and they're always a potential commodity. It's hard to be born into that environment and then envision this world where you're freed of it.”
 
 And, it must be said, the internet is chock-full of nudity.
 
@@ -1289,7 +1289,7 @@ On YouTube, type in "COBOL Mainframe", and you'll find out pretty quickly that t
 
 >- [:grey_question:]C++ is the next C++  
 >Abstract  
->Programmer’s, Businesses and Government(s) want C++ to be safer and simpler. This has led some C++ programmers to create new programming languages or preprocessors, which again is a new language. This paper discusses using static analysis to make the C++ language itself safer and simpler.  
+>Programmer's, Businesses and Government(s) want C++ to be safer and simpler. This has led some C++ programmers to create new programming languages or preprocessors, which again is a new language. This paper discusses using static analysis to make the C++ language itself safer and simpler.  
 >The C++ Core Guidelines identifies issues that this feature helps to mitigate.  
 >The beauty of this proposal is it does not and it does remove features from C++. Like the standard library, it allows programmers to refrain from using the most troublesome C and C++ features.  
 
@@ -1342,7 +1342,7 @@ Man I love how tech companies have "innovated" customer service obsolete.
 
 > ->This made me smile :-)  
 
-MOST PEOPLE DON’T APPRECIATE THE SIGNIFICANCE OF THE POINT MATT WAS MAKING:  
+MOST PEOPLE DON'T APPRECIATE THE SIGNIFICANCE OF THE POINT MATT WAS MAKING:  
 
 **EVERY** SOCIAL MEDIA COMPANY IS ENGAGED IN HEAVY CENSORSHIP, WITH SIGNIFICANT INVOLVEMENT OF AND, AT TIMES, EXPLICIT DIRECTION OF THE G***T.  
 
@@ -1366,16 +1366,16 @@ Dboy only have a fashionable Mac and he has no idea how Windows and Android work
 > ->This made me smile :-)  
 
 Oh, where is she?  
-You’re the detective. You tell me.  
-You’re right. Once upon a time  
-Once upon a time, I had a husband who didn’t give a shit about my feelings or my time.  
-I just want to talk to my daughter. She’s an adult.  
-She doesn’t have to talk to you if she doesn’t want to.  
-I’m better than ever. Hell 
-She doesn’t want to talk to you.  
+You're the detective. You tell me.  
+You're right. Once upon a time  
+Once upon a time, I had a husband who didn't give a shit about my feelings or my time.  
+I just want to talk to my daughter. She's an adult.  
+She doesn't have to talk to you if she doesn't want to.  
+I'm better than ever. Hell 
+She doesn't want to talk to you.  
 Her last text was two words: "Bite me."  
 
-That’s it. We play the cards we’re dealt. Sometimes we win, and sometimes we bite it.  
+That's it. We play the cards we're dealt. Sometimes we win, and sometimes we bite it.  
 
 He was a sniper. He's like a hero.  
 Says who?  
@@ -1392,7 +1392,7 @@ It's fascinating how reading the post makes me think, "well, it's one person's s
 > ->This made me smile :-)  
 
 When team leads asked why we had to do this, World of Warcraft directors explained that while they did not agree, the reasons given by executive leadership were that it was important to squeeze the bottom-most performers as a way to make sure everybody continues to grow.  
-This sort of policy encourages competition between employees, sabotage of one another’s work, a desire for people to find low-performing teams that they can be the best-performing worker on, and ultimately erodes trust and destroys creativity.
+This sort of policy encourages competition between employees, sabotage of one another's work, a desire for people to find low-performing teams that they can be the best-performing worker on, and ultimately erodes trust and destroys creativity.
 
 But Blizzard management chose to fire Brian Birmingham, leaving the WoW Classic team short one of its most public-facing devs.
 
@@ -1413,9 +1413,9 @@ How many people can do your job, Dave? A thousand? Ten thousand? I guess? And do
 >  
 >  The site will remain active until April 10, and the editorial team is still working on reviews and looking forward to delivering some of our best-ever content.
 >  
->  Everyone on our staff was a reader and fan of DPReview before working here, and we’re grateful for the communities that formed around the site.
+>  Everyone on our staff was a reader and fan of DPReview before working here, and we're grateful for the communities that formed around the site.
 >  
->  Thank you for your support over the years, and we hope you’ll join us in the coming weeks as we celebrate this journey.
+>  Thank you for your support over the years, and we hope you'll join us in the coming weeks as we celebrate this journey.
 >  
 >  Sincerely,
 >  
@@ -1473,5 +1473,91 @@ And now you're here to help them. They are good men.
 Whatever happens in there, whatever you see, don't draw your weapon.  
 You told him not to draw his sword. If he does, he and all his men will die.  
 You passed their test. Your men are safe.  
+
+> ->This made me smile :-)  
+
+I look out upon my friends here today and I see...songs...no muse could ever sing or dream of.  
+But I turn to thee and I see what? I recognize but I do not know thee.  
+I say this not in reproach, but regret that I have never asked you to sit at my side before this day or upon my knee when thy was newborn.  
+But now it is Christmas, and I wish to build bridges.  
+So before we make merry... you make for me a gift.  
+
+Look around you, What do you see?  
+I see legends.  
+Do not take your place amongst them idly.  
+KING: Hmm.  
+
+You understand this challenge?  
+I do. I think I do.  
+Remember, it is only a game.  
+I need a sword. I need...I need a sword.  
+Have at me, Green Knight.  
+
+Never forget what happened here upon this Christmas Day!  
+
+One year hence...  
+***DRAMATIC MUSIC PLAYING***  
+What did it feel like?  
+What did it feel like when you  
+Like cutting a melon in two.  
+And what does that feel like?  
+Like nothing.  
+***CHILDREN LAUGHING***  
+Were you afraid?  
+No.  
+Are you just saying that?  
+I am here, and he is not.  
+***WHEEL RATTLING***  
+The king lent me his sword, did you know that?  
+You held it?  
+Well, I did more than hold it.  
+
+Where you off to? A knightly quest?  
+I'm not a knight.  
+But you said you were.  
+I never said that.  
+You said that.  
+I never said I was a knight.  
+But are you?  
+No! No, I'm not.  
+Oh.Hmm.  
+Smells like a knight.  
+
+I dare say every table in this land has heard of you and sung your song.  
+Perhaps you think that I am something I'm not.  
+
+Should not a knight offer a lady a kiss in thanks?  
+Surely a knight knows something of love.  
+
+Why is he green, do you think?  
+The knight?  
+Yes.  
+Was he born that way?  
+Perhaps it is the color of his blood when he blushes.  
+But why green? Why not blue or red?  
+Because he is not of this earth.  
+But green is the color of earth, of living things, of life.  
+And of rot.Yes.  
+
+That is why a knight does what he does.  
+And this is what you want most in life? To be a knight.  
+No, honor.  
+You are not very good with questions.  
+
+You are no knight.
+
+Be merry, sweet Lord  
+On this yules day  
+A briar come with me and fly  
+Be merry, sweet Lord on giving me thine gift  
+I swear that I'm free now with rubies so swift  
+Be merry, sweet Lord and beg pardon me  
+Pleasure and treasure and soft melody  
+Be merry, sweet Lord thank God thousand time  
+Feast up and go now and be the sweet cream  
+Be merry, sweet Lord me sweet achen licht  
+***SINGING IN MEDIEVAL LANGUAGE IN ENGLISH***  
+Be merry, sweet Lord on this yules day  
+***CHORUS HARMONIZING***  
 
 > ->This made me smile :-)  

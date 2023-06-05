@@ -1561,3 +1561,25 @@ Be merry, sweet Lord on this yules day
 ***CHORUS HARMONIZING***  
 
 > ->This made me smile :-)  
+
+It's not used by DNS root servers because it's designed to secure communications between clients and caches, not between caches and authoritative servers. ( * > * )  
+Ignoring the additional latency it comes with, virtually no home routers nor operating systems do.  
+> Dboy only have a fashionable Mac and he has no idea how Windows and Android work.  
+> Dboy never heard `DNSpooq` which can be triggered by the irony of configuration.  
+
+So we are still not securing the authoritative part.  
+Or did I miss something in the chain of trust?  
+**Zero Trust**  
+
+They are protecting against the wrong attack. MitM is mostly theoretical. An irresistable G*T order (***supplemented with people holding guns***) for the DNS provider to insert the "correct" _acme-challenge record is something real, and DNSSEC makes this attack impossible.
+
+Those same people with guns can also force your registrar to request removal of the DS record. Or in the case of ccTLDs, the people with guns might already control your TLD operator and can just answer the acme-challenges themselves.
+
+DNS-over-HTTP requires time sync, the usual CA problems and it only works for the resolver to the client, it's not used for authoritative servers.  
+I had exactly the same issue happening to me! I’ve since added a Real Time Clock (RTC), so the Pi shouldn’t forget about the current time anymore.  
+I run the signing systems for a bunch of TLDs and honestly it scares me.
+
+> When a topic spreads, story makers, RTC geeks, bloodchain believers and halo fellows come to a climax.  
+> Although they never draw recursive conclusions.
+
+> ->This made me smile :-)  

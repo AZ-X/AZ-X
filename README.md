@@ -1583,3 +1583,15 @@ I run the signing systems for a bunch of TLDs and honestly it scares me.
 > Although they never draw recursive conclusions.
 
 > ->This made me smile :-)  
+
+One tip: **template metaprogramming can consume your life**. Avoid it, but use templates sparingly; they do simplify code, especially for vector types.
+
+The key with C++ zen is “all things in balance.” You can go too far with basically every aspect of the language. And it’s important to go too far, so that you know why not to.
+
+I guess you are hinting at Telegram, but... a lot is known about its founder, his brother, the team and their priors, including but not limited to the costly standoff with Russian state authorities.
+
+Its cryptography may be reinvented from smaller primitives that established cryptographers may like, but it's been tried and battle-tested for many years now.
+
+Snowden repeatedly demonstrated and Navalny team publicized in their investigations, **meta-data is often more important than data**. And many of us trust Telegram more to not reveal meta-data than they trust Signal.
+
+> ->This made me smile :-)  

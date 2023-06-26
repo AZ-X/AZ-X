@@ -1595,3 +1595,35 @@ Its cryptography may be reinvented from smaller primitives that established cryp
 Snowden repeatedly demonstrated and Navalny team publicized in their investigations, **meta-data is often more important than data**. And many of us trust Telegram more to not reveal meta-data than they trust Signal.
 
 > ->This made me smile :-)  
+
+Do you use Windows 3.1? NO~  
+Do your friends send you jokes and haikus written by ChatGPT, and make you feel left out? NO~  
+Do you wish you had the sum of all human knowledge at your fingertips? NO~  
+Or wish you had your very own AI chatbot on your trusty 386? NO~  
+
+Every time an object file hit that limit, the compilation would fail with "Segment too large". In particular, `internal.c` file is a whopping 1.25MB (too large for even GitHub to render)  
+This was the most agonizing and time-consuming part of this whole process
+
+Using the Shell Common Controls in Windows 3.1 can be a bit tricky due to its older architecture and limited capabilities, but it's certainly doable.  
+However, there are a few complications to note:  
+1. Windows 3.1 does not natively support the status bar as a control. Status bars are part of the Common Controls library introduced in Win32, specifically, it was introduced in Windows 95 with COMCTL32.DLL. Windows 3.1 is a 16-bit environment and does not include this library.
+2. If you want a status bar in a Windows 3.1 application, you'll have to draw and manage it yourself.
+3. Windows 3.1 programming is largely obsolete. It can be a fun academic exercise or a necessity for maintaining legacy software, but if you're developing new software it would be much more practical to use a more modern version of Windows and its associated API.
+
+Assuming that you still want to go ahead, here's a basic idea of how you might implement a status bar yourself:
+
+Maybe Bob would be a good fit too.  
+Bob looks an awful lot like Bill Gates.
+
+I have this impulse to constantly experiment with everything too. And I think it's healthy for your brain to always be learning new ways and testing your preconceived notions of how you do things. A lot of times it leads to incremental advances, either in the next iteration of my existing code or the way I approach my next project.
+
+But a lot of it, I can admit, boils down to sheep shaving. When you start figuring out how you'd implement codebase 2009 in stack 2023, and then actually doing it, that's golf. It's all good, it's educational, but it's downright immoral to sell that to a client and drag them through it.
+
+I'm not young, yet I don't find any of this all that bad.  
+Maybe I'm an outlier, but I see refactoring and learning new tools as just keeping the blade sharp. Migrating to new frameworks, tools, etc. is just superficially iterative. I've yet to see some kind of massive paradigm shift blow me away and stress me out.
+
+The sad thing is that in many cases working on such a system is a career killer. Nobody wants to hire you. Some years ago a colleague and I realized that our company wouldn’t hire us judging from the job descriptions because we worked on systems that had been working for years but weren’t shiny. Since then I always something new to every project. Not because it makes sense but because it’s good for the resume. Other groups are even worse. **Three devs writing 13 micro services on Kubernetes for maybe a thousand users ever**.
+
+I maybe feel nostalgic, but the old ui is so much... Better :)
+
+> ->This made me smile :-)  

@@ -1648,3 +1648,18 @@ I ultimately spent 7 years working in a patisserie café. We did catered pastrie
 I still break out those skills for fun now and then, but my home cooking now is mainly for the pleasure of eating good daily meals. Spouse and I trade off meal prep, making batches of recipes we think will be healthy and pleasing enough to eat for a few days, or freeze and pull out when we're tired. We've both got big enough repertoires that we rarely eat the same things twice. We've got space now for a garden, so there's also the delight of using what I've grown, fresh to the table or put up for winter.
 
 > ->This made me smile :-)  
+
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2001.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2002.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2003.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2004.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2005.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2006.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2007.PNG?raw=true)  
+![redqueen](https://m.media-amazon.com/images/M/MV5BZTZlNWM4ZGMtZTk1Zi00NzFkLWFhZmEtMjgwNTEzM2QyODkwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX600_.jpg)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2008.PNG?raw=true)  
+
+analysis function on
+3 feminine & 1 masculine, fear of whom?
+
+> ->This made me smile :-)  

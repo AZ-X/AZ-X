@@ -1655,8 +1655,8 @@ I still break out those skills for fun now and then, but my home cooking now is 
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2004.PNG?raw=true)  
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2005.PNG?raw=true)  
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2006.PNG?raw=true)  
-![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2007.PNG?raw=true)  
-![redqueen](https://m.media-amazon.com/images/M/MV5BZTZlNWM4ZGMtZTk1Zi00NzFkLWFhZmEtMjgwNTEzM2QyODkwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX600_.jpg)  
+![fs2 Bristol](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2007.PNG?raw=true)  
+![redqueen Golders Green](https://m.media-amazon.com/images/M/MV5BZTZlNWM4ZGMtZTk1Zi00NzFkLWFhZmEtMjgwNTEzM2QyODkwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX600_.jpg)  
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2008.PNG?raw=true)  
 
 analysis function on

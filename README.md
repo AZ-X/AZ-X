@@ -1663,3 +1663,10 @@ analysis function on
 3 feminine & 1 masculine, fear of whom?
 
 > ->This made me smile :-)  
+
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2009.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2010.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2011.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2012.PNG?raw=true)  
+
+> ->This made me smile :-)  

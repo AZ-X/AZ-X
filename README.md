@@ -1686,3 +1686,9 @@ analysis function on
 You have Tony's future suits, at ease.
 
 > ->This made me smile :-)  
+
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2021.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2022.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2023.PNG?raw=true)  
+
+> ->This made me smile :-)  

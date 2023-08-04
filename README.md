@@ -1670,3 +1670,19 @@ analysis function on
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2012.PNG?raw=true)  
 
 > ->This made me smile :-)  
+
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2013.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2014.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2015.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2016.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2017.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2018.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2019.PNG?raw=true)  
+![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2020.PNG?raw=true)  
+
+![cube 0](https://m.media-amazon.com/images/M/MV5BYmJlYjE3MGUtMjM4YS00M2FlLTliOGMtM2NhMWJiODcwOGJlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX600_.jpg)  
+![cube](https://m.media-amazon.com/images/M/MV5BYjYzMTc4NjAtMDA2ZC00ODkzLWJlODEtMTE3OTk1NzI5ZTAxXkEyXkFqcGdeQXVyNzExNDk5MDA@._V1_FMjpg_UX600_.jpg)  
+
+You have Tony's future suits, at ease.
+
+> ->This made me smile :-)  

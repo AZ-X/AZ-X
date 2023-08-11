@@ -1698,6 +1698,6 @@ You have Tony's future suits, at ease.
 ![fs2](https://github.com/AZ-X/MEDIA/blob/master/PNG/quantum_entanglement/fs2026.PNG?raw=true)  
 ![Ana](http://images2.fanpop.com/images/photos/4000000/G-I-Joe-Teaser-Trailer-gi-joe-rise-of-cobra-4051435-1222-690.jpg)  
 They're all just points on a graph.  
-In computer science, we may call them [vertexs](https://github.com/AZ-X/pique/blob/397a76428f082bcfb67ceb3a3f5db86aefab06b1/repique/conceptions/mini_dag.go#L48).  
+In computer science, we may call them [vertexes](https://github.com/AZ-X/pique/blob/397a76428f082bcfb67ceb3a3f5db86aefab06b1/repique/conceptions/mini_dag.go#L48).  
 
 > ->This made me smile :-)  

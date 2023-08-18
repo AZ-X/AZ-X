@@ -1701,3 +1701,33 @@ They're all just points on a graph.
 In computer science, we may call them [vertexes](https://github.com/AZ-X/pique/blob/397a76428f082bcfb67ceb3a3f5db86aefab06b1/repique/conceptions/mini_dag.go#L48).  
 
 > ->This made me smile :-)  
+
+Tellem taught us to use music to help focus us. :musical_note:	  
+We know things. Know when the kings are full of shit or the husbands are cheating. So there's a couple of ways we can go.  
+We're treated as gods among men or wolves among sheep.  
+I've always wondered, why do they call you the "secret" service? Aren't you a little... Men in Black?  
+The god thing gets old, trust you me, and the wolves thing gets you killed.  
+Call you "Devil," call you "Space Fiend." And then they bleed you, like Josiah.  
+You study patterns. You know what your kind does. Violence against any deviation from the majority, exploitation, cruelty, secrets, murder.  
+
+It is an art we continue to perfect, though it was begun by Empire full 600 years ago when our servitude was forged.  
+I look forward to ruling at his side. And I want you, all of you, to know that with my vows I am not wed to just one man.  
+But I am wed to all the people of Imperium. And I vow to you that your voices will be heard. Your requests are our obligations. Your needs are our agenda.  
+We serve you. We love you. We belong to you.  
+Don't speak your thoughts, unvoice them. You're just talking loud on the inside.  
+I'm loyal to the Empire. I don't forget anything or anyone. Empire is always on my mind.  
+:clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap::clap:
+
+Yes, the so-called "barbarian worlds." Precisely the issue we barbarians are here to address on the Prophet's expense account.  
+Look at the nibbles. Are they free?  
+The nuts you're holding are a week's wages on Siwenna. :heavy_dollar_sign:	  
+But the view, however, is gratis.  
+Your visit to Trantor has been extended indefinitely.  
+
+"The gods made wine to compensate those who can't afford revenge."  
+When you feel the tug of history, give it a pull.  
+
+Murder? You condemn murder. You hypocrite. This isn't murder.  
+I control what Gaal and Salvor know.  
+
+> ->This made me smile :-)  

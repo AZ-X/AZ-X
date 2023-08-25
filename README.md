@@ -1731,3 +1731,49 @@ Murder? You condemn murder. You hypocrite. This isn't murder.
 I control what Gaal and Salvor know.  
 
 > ->This made me smile :-)  
+
+Let me tell you what it looks like if Empire falls.  
+The rapists are kings.  
+The poor are slaves.  
+Life is nothing but emptiness...pain.  
+Your predictions ain't out of date, General Riose.  
+You'll forgive him, but still, the violation.  
+
+Even if they somehow don't resemble me, they will be Empire just the same.  
+Of course. Hmm.  
+And foolishly, he's not particularly threatened by you.  
+We have the same eyes. Yours are kind.  
+Your genome is nearly identical.  
+That baby could have your eyes.  
+Don't you want that? NO~  
+Don't you want to cast a shadow? NO~  
+Don't you try and pull rank? NO~  
+It's a bloodless fucking coup.  
+
+I need to be read into the family secrets.  
+I can't read Tellem. I can't read anyone. Something is wrong with this place.  
+Because reading Men in White is forbidden here.  
+If you feel everything, you don't take more than you need.  
+That's what's so great about this place. No one can hide.  
+The first cases of feeling unreal go back to French otorhinolaryngologist Maurice Krishaber in 1873. It's called DPD: depersonalization disorder.  
+Small price to pay for truth.  
+Because sometimes a little death is necessary.  
+This mean I'm finally Sighted?  
+
+This is not the time to pull threads.  
+Well, this is an unfortunate thread you've pulled.  
+
+Missionaries? We're, uh...  
+Salesmen.  
+![Buy Your House](https://github.com/AZ-X/MEDIA/blob/master/PNG/byh/Buy.Your.House.15.png?raw=true)
+
+Foundation technology has outpaced our own. Their whisper-ships are more nimble and they can navigate
+without the aid of Spacers.  
+There's more.  
+If the Foundation has technology worth having, take an inventory because it belongs to us.  
+Yes, Empire.  
+"No more clones" is NOT an unfortunate thread but technology.  
+
+They come with a very robust security system.  
+
+> ->This made me smile :-)  

@@ -1789,3 +1789,16 @@ I noticed in Denver a number of places that had gone out of their way to remove 
 Cool project, I wanted to contribute for my city but clicking on Sign In. "Continue with gooose" seems to be the only option. That made me sad and leave. I know implementing auth is a hassle and might well take more time than adding the map, but it would be nice to have some option beside "Login with Advertising Giant account"  
 
 > ->This made me smile :-)  
+
+Do NOT directly call 911 for non-emergency "test" calls. Please schedule a call by contacting the non-emergency phone number first.  
+Instead of directly calling 911, you need to schedule a test call with your local 911 call center by contacting its non-emergency phone number.  
+Some Public Safety Answering Points (PSAPs) also give zero shits about call answer time, NG911, 911 via text, or even consistently working E911.  
+E911 provides a static address to the public safety answering point when a 911 call comes in. NG911 enriches this with more accurate latitude longitude and height above ground level data, or for phones that are in a fixed location a room number or extension number can be provided to make it much easier for a routing emergency services.  
+We need a national system for 911, not this mishmash of 10 to 30-year-old proprietary systems serving the 5700 PSAPs put together for each department on a township, city or county basis, with minimal coordination across regions and states.  
+What kind of response would be appropriate then for getting them to take this issue seriously?  
+To think that they are prioritizing support for TikTok or whatever and thinking of 911 as an afterthought is horrendous and disgusting.  
+Emergency calls should have the `highest priority` on networks.
+1) Facetime 2) People listening to any audio will use the earpiece speaker  
+The article explains how to schedule a test call to 911.  
+
+> ->This made me smile :-)  

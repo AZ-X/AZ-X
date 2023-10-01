@@ -1777,3 +1777,15 @@ Yes, Empire.
 They come with a very robust security system.  
 
 > ->This made me smile :-)  
+
+American cities are poorly legislated and suffer from a tragedy of the commons when it comes to basic public needs like restrooms. We have deep seated issues that keep us from being able to have nice things like that.  
+Why is it a requirement?  
+Because at some point our public servants had a modicum of integrity in their stated mission: the public good.  
+Having a place to wash your hands is one stated idea of why they're usually required in Canada.  
+I noticed in Denver a number of places that had gone out of their way to remove seating specifically to avoid having to offer restrooms to the booming homeless population in the urban center there.  
+
+> ->This made me smile :-)  
+
+Cool project, I wanted to contribute for my city but clicking on Sign In. "Continue with gooose" seems to be the only option. That made me sad and leave. I know implementing auth is a hassle and might well take more time than adding the map, but it would be nice to have some option beside "Login with Advertising Giant account"  
+
+> ->This made me smile :-)  

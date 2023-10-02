@@ -1802,3 +1802,14 @@ Emergency calls should have the `highest priority` on networks.
 The article explains how to schedule a test call to 911.  
 
 > ->This made me smile :-)  
+
+"And it's called saving lives."  
+“Respond rapidly to the recent challenge of increasing arrivals through Mediterranean routes.”  
+How important keep to its schedule for Gigafactory's construction.  
+Who is spreading misleading statements about the climate statements.  
+"Rather prefer to report on 'climate change' and the 'last generation'"  
+
+These kids are running a full-on troll farm spreading misinformation, disinformation, throughout the world, man..  
+***They could do more damage than a nuclear weapon.***  
+
+> ->This made me smile :-)  

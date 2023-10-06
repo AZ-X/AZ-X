@@ -1821,4 +1821,8 @@ Numbers are impartial.
 
 > ->This made me smile :-)  
 
+The insurgents have now achieved competitive advantage.  
+A monumental conclusion.  
+Defensionem protocol activated.  
 
+> ->This made me smile :-)  

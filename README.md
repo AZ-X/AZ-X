@@ -1826,3 +1826,9 @@ A monumental conclusion.
 Defensionem protocol activated.  
 
 > ->This made me smile :-)  
+
+Security doors engaged.  
+Annihilation in T-minus nine minutes and counting.  
+Excessive structural deformation in progress.  
+
+> ->This made me smile :-)  

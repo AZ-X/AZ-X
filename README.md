@@ -1813,3 +1813,12 @@ These kids are running a full-on troll farm spreading misinformation, disinforma
 ***They could do more damage than a nuclear weapon.***  
 
 > ->This made me smile :-)  
+
+What is that?  
+An algorithm charting the statistical probability of the enemy's success.  
+Whose side are you on?  
+Numbers are impartial.  
+
+> ->This made me smile :-)  
+
+

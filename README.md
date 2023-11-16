@@ -1838,3 +1838,14 @@ Excessive structural deformation in progress.
 Well Done.
 
 > ->This made me smile :-)  
+
+All soldiers are gamblers and all gamblers are cheats, I've found.  
+I've studied psychology too, and reverse psychology. What better way to hide your true role in this farce than to accuse another candidate of playing your part?  
+We're in competition. Why should I help you to beat me?  
+We may be in competition to answer the question, but to establish the question we have to cooperate.  
+He's a talker.  
+There are nine character traits to look for:  
+Arrogance, grandiosity, a belief in one's uniqueness, a preoccupation with power and success, an excessive need to be admired, a sense of entitlement, lack of empathy and the twin tendencies to envy and exploit others.  
+For clinical diagnosis, a patient must exhibit five of these.
+
+> ->This made me smile :-)  

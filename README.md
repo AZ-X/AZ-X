@@ -1850,6 +1850,6 @@ For clinical diagnosis, a patient must exhibit five of these.
 
 > ->This made me smile :-)  
 
-![repique_golang_1.21.5](https://raw.githubusercontent.com/AZ-X/MEDIA/master/PNG/repique_presentation/go_1.21.5_on_Windows 7.PNG?raw=true)  
+![repique_golang_1.21.5](https://raw.githubusercontent.com/AZ-X/MEDIA/master/PNG/repique_presentation/go_1.21.5_on_Windows%207.PNG?raw=true)  
 
 > ->This made me smile :-)  

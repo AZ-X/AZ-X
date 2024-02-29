@@ -1853,3 +1853,24 @@ For clinical diagnosis, a patient must exhibit five of these.
 ![repique_golang_1.21.5](https://raw.githubusercontent.com/AZ-X/MEDIA/master/PNG/repique_presentation/go_1.21.5_on_Windows%207.PNG?raw=true)  
 
 > ->This made me smile :-)  
+
+Stop being such a buzzkill, Luche. We all know `what happened`.  
+Did you know they sent an envoy to the Citadel after that?  
+What for? To offer their surrender?  
+More like demand ours. What? Demand? My ass!  
+No? Think about it. The empire's got Lucis on its last legs. It's the perfect time to make demands. We are losing this war, Your Majesty.  
+Lucis cannot rely on the Kingsglaive alone. Accepting the truce may be our best course of action.  
+You speak of matters beyond the `New Wall`. We have no need of `a truce` here, so long as it stands.  
+And if our position worsens, we still have the `Old Wall`.  
+Yes, but this truce will end the fighting altogether.  
+If only we could compromise.  
+Compromise is unwise.  
+`We` know nothing of Niflheim's `true intentions`.  
+Do not fool yourselves. The Walls are far from impenetrable. The paths left to us are few. The New Wall draws its power from the throne. I am able to sustain it for some years yet, if the kingdom requires it.  
+But the chancellor `spoke` one truth, if only one. We are old, and the Old Wall...  
+I cannot `command the Old Wall with a weakened hand`, nor do I have the strength to muster an offensive to turn the tide on this war.  
+Then let the choice be made, Your Majesty.  
+What are we to protect?  
+--Square USA  
+
+> ->This made me smile :-)  

@@ -1874,3 +1874,30 @@ What are we to protect?
 --Square USA  
 
 > ->This made me smile :-)  
+
+Here is the miracle you asked for.  
+This is very simple.  
+The world is sick, but we are the doctors.  
+The world is anemic, and we are the vitamin.  
+The world is weary, but we are the strength.  
+We are here to make the world healthy once again.  
+With hard work, with honesty, with clarity, with decency.  
+We are the product of loving mothers and brave fathers.  
+We are the embodiment of love and bravery.  
+We are the gift of both ~~`God`~~ and science.  
+We are the answer to the question.  
+We are the promise delivered to all mankind.  
+For that we raise our hand, to one nation.  
+We step to the beat of one drum of this world.  
+We are the people with the children on our shoulders.  
+In the same way as our fathers carried us and their fathers before them.  
+We are the one people, united and strong.  
+We are the one people with certainty. Moral certainty.  
+We are invincible and we have no fear.  
+Because the truth makes us ONES!!  
+Mein Führer. It's time.  
+The traitor Adler will get a surprise.  
+Sending machines up to the sky and leave behind those who don't know of the final day  
+Mr. Washington James. Why are you `so upset` and `so angry`?  
+
+> ->This made me smile :-)  

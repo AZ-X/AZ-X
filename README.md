@@ -1901,3 +1901,78 @@ Sending machines up to the sky and leave behind those who don't know of the fina
 Mr. Washington James. Why are you `so upset` and `so angry`?  
 
 > ->This made me smile :-)  
+
+We control the engine.  
+We control the world.  
+
+They criticized him for over-engineering and over-equipping this wonderful train.  
+And what was that?  
+Old world people are frigging morons who got turned into popsicles.  
+Well, sort of. He knew that CW7 would freeze the world.  
+Rumble, rumble, rattle, rattle  
+The engine is eternal, yes!  
+The engine is forever, yes!  
+Rumble, rumble, rattle, rattle  
+Now, Who can tell me what's coming up?  
+The Revolt of the Seven.  
+Of course they failed to stop the train.  
+There they are. That's how far they made it. That's a woman in the front. She was an Inuit.  
+
+As a special treat, we have playing for us the world renowned first chair violinist of the Boston Symphony Orchestra, Mr. Gerald McInster.  
+Is that really Gerald? He looks damn great.  
+Excuse me, sir. My wife and I played violin in the Boston Symphony Orchestra. I was first chair.  
+Can you still play?  
+Of course, you never forget.  
+
+Look beyond the gate. Section after section, precisely where they've always been and where they'll always be, all adding up to what?  
+The train.  
+And now, the perfectly correct number of human beings, all in their proper places, all adding up to what?  
+Humanity.  
+The train is the world.  
+
+Look at them. That's how people are.  
+You know.  
+You've seen this.  
+You've been this.  
+You can save them from themselves.  
+You know what I hate about myself?  
+I know what people taste like.  
+I know that babies taste best.  
+
+Long time no see, Mr. Gilliam.  
+It's a pleasure!  
+Earth?  
+What was it like?  
+I don't remember.  
+Why?  
+I don't want to remember anything before I met Gilliam.  
+
+We would all be hideously over-crowded and starved, waiting for that.  
+The next best solution is to have individual units kill off other individual units.  
+From time to time, we've had to stir the pot, so to speak.  
+A blockbuster production with a devilishly unpredictable plot.  
+That wasn't what Gilliam and I had in our plan.  
+Don't tell me you didn't know. Gilliam and I... our plan.  
+The front and the tail are supposed to work together.  
+He was more than a partner, really. He was my friend.  
+It all worked out in the end.  
+Unfortunately, the front suffered more losses than anticipated and Gilliam had to pay the price.  
+
+Boy, now I can see what Gilliam meant.  
+He told me you were brilliant and clever, but always so tense.  
+When's the last time you got laid? Hmm?  
+Like Gilliam said, holding a woman is much better with two arms.  
+
+It's what you always wanted.  
+It's what Gilliam wanted, too.  
+You must tend the engine, keep her humming.  
+
+Put that useless gun down.  
+Put it away.  
+No, I think the guns are literally useless.  
+Wake up. Rise and shine.  
+
+Well, you always seem to know what's behind the gates.  
+Do you see things in your mind?  
+
+> ->This made me smile :-)  

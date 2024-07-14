@@ -1976,3 +1976,8 @@ Well, you always seem to know what's behind the gates.
 Do you see things in your mind?  
 
 > ->This made me smile :-)  
+
+The [nature](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) of the method is complex, but it’s a bit like using several layers of contact lenses to mask a person’s original eye color–and switching those layers repeatedly and randomly.  
+This method would make it difficult to infer the person’s true eye color–regardless of what the original color actually was.  
+
+> ->This made me smile :-)  

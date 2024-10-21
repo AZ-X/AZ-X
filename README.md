@@ -1981,3 +1981,11 @@ The [nature](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) of the method i
 This method would make it difficult to infer the person’s true eye color–regardless of what the original color actually was.  
 
 > ->This made me smile :-)  
+
+BAD-ANON: One Game at a Time
+
+> ->This made me smile :-)  
+
+300€ IS expensive to see the covers in colour...
+
+> ->This made me smile :-)  

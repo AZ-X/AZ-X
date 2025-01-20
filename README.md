@@ -1990,6 +1990,6 @@ BAD-ANON: One Game at a Time
 
 > ->This made me smile :-)  
 
-<BATTLE HYMN OF THE REPUBLIC>
+\<BATTLE HYMN OF THE REPUBLIC\>
 
 > ->This made me smile :-)  
